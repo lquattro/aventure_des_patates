@@ -1,5 +1,10 @@
-# Characters #
+# Fiche des Personnages Existants #
 
-* [Learn : Baldor l'exécuteur](baldor.md)
-* [Learn : Inaya](inaya.md)
-* [Learn : Shrink](shrink.md)
+Voici la liste des personnages existants.
+Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est possible de faire dans l'univers des patates.
+
+---
+
+* [Baldor l'exécuteur](baldor.md)
+* [Inaya](inaya.md)
+* [Shrink](shrink.md)
