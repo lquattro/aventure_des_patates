@@ -1,6 +1,8 @@
-# L'aventure des patates
+![Banner of Aventure](banner_presentation.png)
 
 "L'aventure des patates" est un jeu de rôle.
+Basé sur des rêgles simplifiées proche de "Aventure" (Rpg Mayar : Bazar du grenier) et inspiré du monde de Naheulbeuk (Pen of Chaos), ce petit jeu de rôle a pour base d'amuser les joueurs par son univers loufoques, ainsi que par sa gestion simplifiée des rêgles du jeu.
+Ce jeu de rôle a été conçu pour fonctionner avec [Roll20](https://roll20.net/) : application gratuite en ligne, qui permet au maitre des jeux et joueurs de jouer aux rpg sur des plateaux virtuels.
 
 ---
 
