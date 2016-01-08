@@ -2,7 +2,7 @@
 
 ## Description :
 
-Provenant de la terre et nez par la magie, vous et votre peuple êtes une nouvelle ère de l'histoire de ce monde,
+Provenant de la terre et né par la magie, vous et votre peuple êtes une nouvelle ère de l'histoire de ce monde,
 où reigne majoritairement les humains.
 Protégé par un faible pacte de non aggression avec les humains, le seul village d'homme patate est souvent en proie à des agressions de toutes sortes.
 Partez à l'aventure avec vos compagnons hommes patates découvrir ce monde et ces mystères.
