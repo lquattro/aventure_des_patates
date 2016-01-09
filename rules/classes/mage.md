@@ -1,5 +1,7 @@
 # Mage #
 
+## Dons
+
 * Boule (1+ / 1D6)
 * Monture élémentaire (4; +2 cast)
 * Méditation (Regen X Mana / X Tour)

@@ -1,5 +1,7 @@
 # Fiche de personnage
 
+Une fiche personnage comprend obligatoirement les statistiques, une posture favorite, un ordre magique, une classe, des compétences (4 au niveau 1), des dons, des langues connues et un inventaire.
+
 ## Statistique
 
 ### Point
@@ -29,14 +31,14 @@
 * [L'ordre de la pomme de terre (Terre)](orders/the_potato.md)
 
 ## Classe
-<!--TODO Description Classe -->
-* [Archer](classes/archer.md)
-* [Guerrier](classes/warrior.md)
-* [Mage](classes/mage.md)
-* [Paladin](classes/paladin.md)
+
+Un personnage a obligatoirement une classe pour caractériser ces particularitées et spécifications.
+* [Archer](classes/archer.md) : Furtif, rapide et excélent à longue portée.
+* [Guerrier](classes/warrior.md) : Puissant, fort, et habile dans les combats.
+* [Mage](classes/mage.md) : Faible d'apparence, mais puissamment magique.
+* [Paladin](classes/paladin.md) : Proche de son ordre magique, et bon au combat.
 
 ## Compétences
-
 <!--TODO Description Competences -->
 [Les compétences](skills.md)
 
@@ -57,5 +59,6 @@
 * Nain
 
 ## Equipements
-<!--TODO Description Equipements -->
+
+Que porte votre personnage ?
 [L'inventaire](objects_inventory.md)

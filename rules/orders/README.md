@@ -1,5 +1,7 @@
 # Orders #
 
+Les ordres magiques
+
 ## Les ordres magiques
 
 * [L'ordre de la divine patate (Lumière)](holy_potato.md)
