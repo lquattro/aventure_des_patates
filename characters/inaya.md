@@ -1,5 +1,9 @@
 # Inaya
 
+De face | De dessus
+--- | ---
+![face](image/inaya.png) | ![top](image/inaya-top.png)
+
 Race du personnage | Classe | L'Ordres Magiques | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
