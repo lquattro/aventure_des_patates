@@ -1,5 +1,9 @@
 # Baldor l’exécuteur
 
+De face | De dessus
+--- | ---
+![face](image/baldor.png) | ![top]()
+
 Race du personnage | Classe | L'Ordres Magiques | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Guerrier | L'ordre de la patate d'eau (Eau) | Offensif : Max dégats
