@@ -30,13 +30,13 @@
 * Armure de Plaque (indice 5)
 * Tenue de discrétion
 
-## Bouclier
+## Boucliers
 * Bouclier Ecu (bouclier chevalier avec monture; indice 2)
 * Bouclier Pavois (bouclier lourd d'archer; indice 3)
 * Bouclier Rondache (bouclier rond; indice 2)
 * Bouclier Scutum (bouclier lourd ferré romain; indice 4)
 
-## Monture
+## Montures
 * Cheval Rapide
 * Cheval de guerre (portant une barde de maille)
 
