@@ -2,9 +2,9 @@
 
 De face | De dessus
 --- | ---
-![face](image/baldor.png) | ![top]()
+![face](image/baldor.png) | ![top](image/baldor-top.png)
 
-Race du personnage | Classe | L'Ordres Magiques | Posture Favorite
+Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Guerrier | L'ordre de la patate d'eau (Eau) | Offensif : Max dégats
 
