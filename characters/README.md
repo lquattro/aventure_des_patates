@@ -6,5 +6,5 @@ Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est po
 ---
 
 [Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md) | [Erok](erok.md) | [Shrink](shrink.md)
---- | --- | ---
+--- | --- | --- | ---
 ![face](image/baldor.png) | ![face](image/inaya.png) | ![face](image/erok.png) | none
