@@ -19,7 +19,7 @@ Mana | Vie | Mental | Physique | Social
 
 ## Compétences :
 * Bouclier : 15%
-* Marteau : 20%
+* Epée : 20%
 * Concentration : 5%
 * Peau dur : 10%
 
@@ -31,6 +31,6 @@ Mana | Vie | Mental | Physique | Social
 
 ## Inventaires :
 * Armure de Plaque (indice 5)
-* Marteau de guerre à 1 mains (D8; +1 dégâts)
+* Epée (D10; Ambidextre possible : +Malus)
 * Bouclier Pavois (bouclier lourd d'archer; indice 3)
 * Bourse : 10 PO
