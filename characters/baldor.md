@@ -31,7 +31,7 @@ Mana | Vie | Mental | Physique | Social
 
 ## Inventaires :
 * Armure de Maille (indice 3)
-* Epée longue (D12; +2 dégâts; Ambidextre impossible)
+* Epée (D10; Ambidextre possible : +Malus)
 * Outils de forge
 * Gourde d'eau x2
 * Bourse : 10 PO
