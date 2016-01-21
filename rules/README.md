@@ -7,9 +7,9 @@ C'est un compte intéractif raconté par un maitre du jeu (MJ ou GM en anglais) 
 
 ### Les tests d'évènements
 Dans ce jeu de rôle, pour chaque évènement, un test doit être effectué et sera demandé par le MJ, afin de déterminer si une action est un échec ou une réussite. Il existe trois catégorie pour les tests : Mental, Physique, Social. Suivant l'action ou la décision d'un joueur, le maitre du jeu demandera donc un test ouvert sur une des catégories se rapprochant le plus de l'action.
-* Exemple : "La patate donne un coup d'épée sur un humain." -> un test de physique sera demandé. *
-* Exemple 2 : "La patate essaye de comprendre les mots magiques que prononce l'elfe." -> un test de mental sera demandé. *
-* Exemple 3 : "La patate parlant avec l'elfe en langue commune, essaye de convaincre l'elfe de lui vendre son livre." -> un test de social sera demandé. *
+*Exemple : "La patate donne un coup d'épée sur un humain." -> un test de physique sera demandé.*
+*Exemple 2 : "La patate essaye de comprendre les mots magiques que prononce l'elfe." -> un test de mental sera demandé.*
+*Exemple 3 : "La patate parlant avec l'elfe en langue commune, essaye de convaincre l'elfe de lui vendre son livre." -> un test de social sera demandé.*
 Les actions critiques existent dans ce jeu, et cela inclus automatiquement des conséquences. La base est à 8 (réussite critique) et 92 (échec critique), mais elle peut être modifié en début de partie par le MJ (il faut avertir les joueurs en début de partie).
 
 ### Les postures : 
@@ -28,7 +28,7 @@ Ce jet de dégât est établis par un lancement de dés suivant l'arme, le sort 
 ### Les tests d'esquive/parade/blocage : 
 Si un personnage ou ennemi est en défensif, il a le droit à un test d'esquive, de parade ou de blocage.
 Dans un tour, seulement un test défensif peut-être effectué par action.
-* Exemple : Si deux orcs font une attaque réussite chacun sur votre personnage, il pourra donc faire un test d'esquive sur la première attaque et un second test de parade sur la seconde attaque. Il sera donc impossible de faire une autre esquive ou parade si un troisième orc réussit une attaque sur vous. *
+*Exemple : Si deux orcs font une attaque réussite chacun sur votre personnage, il pourra donc faire un test d'esquive sur la première attaque et un second test de parade sur la seconde attaque. Il sera donc impossible de faire une autre esquive ou parade si un troisième orc réussit une attaque sur vous.*
 Cependant si votre personnage possède un bouclier, celui-ci lui permet de bloquer avec son bouclier (suivant l'exemple précédent) un ultime et dernier coup avant d'offrir ces flancs à d'autres adversaires.
 N'oubliez pas que ce sont des tests qui sont à faire suivant la nature de l'attaque ou l'action contre votre personnage, le MJ demandera donc des tests "Physique" principalement et "Mental" en cas de blocage/parade magique. 
 
@@ -39,7 +39,7 @@ Si le test de résistance est critique, positif : il se peux que les dégâts so
 ### Fonctionnement de l'armure : 
 L'armure d'un personnage se trouve dans l'inventaire; on peut en avoir une à la création du personnage, ou s'en faire une grâce au récompense, fouille et tout autre action immaginable. Les valeurs sont indiquées suivant la qualité de l'armure. Il est cependant aussi viable que des personnages perdent des morceaux d'armure suivant des évènements scénaristiques.
 Ces points protègent automatiquement par soustraction aux dégâts que font les ennemies.
-* Exemple : Coup d'épée à 6 dégâts - 3 d'armure de maille = 3 points de vie en moins *
+*Exemple : Coup d'épée à 6 dégâts - 3 d'armure de maille = 3 points de vie en moins*
 
 ### Les boucliers : 
 Le bouclier d'un personnage fonctionne comme une armure, il se trouve dans l'inventaire et il est possible d'en acquérir un ou de le perdre ou le dégrader suivant les évènements.
