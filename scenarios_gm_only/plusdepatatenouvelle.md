@@ -2,9 +2,9 @@
 
 ## Synopsis pour le MJ (à ne pas dévoiler aux joueurs...)
 
-Mr Potatil, l'adjoint du chef est depuis longtemps amoureux de la femme du chef et anvieu de la puissance du chef.Au fil des mois, il en a eu marre d'être au second plan au sein de la communauté comme affectif. 
-Frustré par tout ceci, il échafoda un plan miticuleu, afin de capturé et pompé toute la puissance du chef grâce à une pierre rouge qu'il acheta chez un marchand humain. Une fois que le chef sera mort d'épuisement magique à ce moment là, il fera réaparaitre le corp et servira de réconfort auprès de la femme pour devenir chef. 
-Il y a une semaine, comme à leur habitude, le chef et l'adjoint vont faire naitre les nouvelles patates. L'adjoint connaissait bien sa cible, et il profita de la confiance du chef envers lui, pour l'inciter à changer un peu ces habitudes, en prennant un autre chemin, un chemin plus sombre le matin.
+Mr Potatil, l'adjoint du chef est depuis longtemps amoureux de la femme du chef et anvieu de la puissance du chef.Au fil des mois, marre d'être toujurs au second plan au sein de la communauté comme affectif, 
+frustré par tout ceci : il échafoda un plan méticuleux, afin de capturer et pomper toute la puissance magique du chef grâce à une gemme rouge qu'un étrange sorcier humain, lui avait donné. Une fois que le chef sera mort d'épuisement magique à ce moment là, il fera réaparaitre le cadavre du chef et utilisera la perte de celui-ci pour servir de réconfort auprès de la femme du chef. 
+Il y a une semaine, comme à leur habitude, le chef et l'adjoint font naitre les nouvelles patates. L'adjoint connaissait bien sa cible, et il profita de la confiance du chef envers lui, pour l'inciter à changer un peu ces habitudes, en prennant un autre chemin, un chemin plus sombre.
 L'adjoint avait payé au préalable deux brigands humains pour kidnaper le chef à l'intersection de quatres maisons.
 Assommé, le chef fut emmené dans la grotte du vieux Patatoutou (qui est lui aussi prisonnier de l'adjoint), et lança le rituel de drainage magique de la pierre rouge. Dès le premier jour de la disparition du chef, Potatil a prévenu la femme du chef de la disparition de son marie et pour ne pas éveiller les soupsons, ainsi que s'attribuer des faveurs, il organisa des fausses recherches du chef par des hommes de mains humain. Prétextant qu'il fallait garder tout ceci secret afin d'éviter une panique général dans le village. Le chef devient de plus en plus faible, il reste peu de temps avant que le plan de Potatil se termine.
 
@@ -25,6 +25,10 @@ Plusieurs moyens de récupérer la mission :
 Hantag, le chef de la patrouille, un homme plutôt costaux, prétextera être à la recherche d'une personnalité du village, il tentera de rassurer les aventuriers pour pas qu'il s'en mèle. 
 Si les aventuriers arrive à trouver qu'il n'inspire pas confiance, Hantag va se défendre verbalement en tentant de les envoyer sur une autre piste; disparition du chat de la mère Crousir ou du boulanger ou médecin du village.Au choix du MJ ou au jet de dés MJ : du pas crédible -> au crédible (A vous d'inventer et argumenter de fausse histoire sur ces personnages).
 En cas de réussite critique, (au choix du MJ) soit les hommes de mains attaques les aventuriers et trouvent une lettre de mission de l'adjoint (avec la localisation de la grotte); soit les hommes de mains trouvent qu'ils sont pas assez payé pour mourrir ici et il donne la lettre de mission.
+
+* En parlant a l'elfe, si l'elfe n'est pas trop beurré pour se rappeler des informations :
+  * Il sait pour l'absence des naissances.
+  * Il sait pour la localisation du champs de patate.
 
 
 ## Les lieux
