@@ -10,11 +10,13 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 ~ 2h | très bon | Normal | Normal | Normal
 
+## Moyen
+
 * [Un beau potager](unbeaupotager.md)
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
-~ 1h30 | bon | Peu | Beaucoup | Peu
+entre 1h30 & 6h | bon | Peu | Beaucoup | Peu
 
 ## Long
 
