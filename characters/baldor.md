@@ -8,9 +8,9 @@ Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Guerrier | L'ordre de la patate d'eau (Eau) | Offensif : Max dégats
 
-Mana | Vie | Mental | Physique | Social
+Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-5 | 10 | 35% | 80% | 55%	
+10 | 5 | 35% | 80% | 55%	
 
 ## Langues parlées
 * Commun

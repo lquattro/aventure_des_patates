@@ -8,9 +8,9 @@ Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
 
-Mana | Vie | Mental | Physique | Social
+Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-6 | 9 | 60% | 70% | 40%	
+9 | 6 | 60% | 70% | 40%	
 
 ## Langues parlées
 * Commun

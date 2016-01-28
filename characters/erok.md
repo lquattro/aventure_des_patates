@@ -8,9 +8,9 @@ Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | ---
 Homme patate | Guerrier | L'ordre de la pomme de terre (Terre) | Defensif : Bonus de défense, parade ou esquive
 
-Mana | Vie | Mental | Physique | Social
+Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-4 | 11 | 60% | 70% | 40%	
+11 | 4 | 60% | 70% | 40%	
 
 ## Langues parlées
 * Commun
