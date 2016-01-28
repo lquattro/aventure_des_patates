@@ -18,6 +18,12 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 entre 1h30 & 6h | bon | Peu | Beaucoup | Peu
 
+* [La guilde du savoir](laguildedusavoir.md)
+
+Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
+--- | --- | --- | --- | ---
+~ 8h | bon | Normal | Normal | Normal
+
 ## Long
 
 * [La pierre de transmutation](lapierredetransmutation.md)
