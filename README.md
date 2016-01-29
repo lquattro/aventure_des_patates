@@ -20,3 +20,11 @@ Ce jeu de rôle a été conçu pour fonctionner avec [Roll20](https://roll20.net
 ## LICENSE
 
 [GNU GENERAL PUBLIC LICENSE V2](LICENSE)
+
+---
+
+## CONTRIBUTOR
+
+You want to contribute ?
+
+[Readme Contributor](readme_contributor.md)
