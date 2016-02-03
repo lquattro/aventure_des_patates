@@ -5,6 +5,16 @@ Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est po
 
 ---
 
-[Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md) | [Erok](erok.md) | [Shrink](shrink.md)
+## Groupe A
+
+[Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md) | [Barial](barial.md)
 --- | --- | --- | ---
-![face](image/baldor.png) | ![face](image/inaya.png) | ![face](image/erok.png) | none
+![Baldor](image/baldor.png) | ![Inaya](image/inaya.png) | ![Barial](image/barial.png)
+
+## Groupe B
+
+## Réserviste
+
+[Erok](erok.md) | [Shrink](shrink.md)
+--- | ---
+![Erok](image/erok.png)  | ![Shrink](image/shrink.png)
