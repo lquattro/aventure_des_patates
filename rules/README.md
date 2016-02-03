@@ -82,3 +82,9 @@ Le choix du nombre d'objet par personnage est au choix du Maitre du jeu (à la v
 Pour avoir un résumé des personnages joués par les joueurs, on utilise une fiche personnage qui renseigne tous les caractéristiques nécessaires du personnage. Cela aide les joueurs et le maitre des jeux pendant les parties.
 
 [Fiche personnage](character_profil.md)
+
+## Le Leveling
+
+Au fil des histoires scénarisée, les personnages vont devenir plus fort et plus aguerri au combat ou avec leurs éléments. Ils pourront donc avoir plus de points, des nouveaux bonus et des nouveaux pouvoirs.
+
+[Leveling](leveling.md)
