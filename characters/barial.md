@@ -22,7 +22,7 @@ Vie | Mana | Mental | Physique | Social
 * Ami des bêtes : 20%
 * Chimiste : 15%
 * Démoniaque : double les dégats magiques (Possibilité de se transformer en démon)
-* Erudition : 15%								
+* Erudition : 15%
 
 ## Dons : 
 * Création (Génère de l'élément; 1)
@@ -31,7 +31,7 @@ Vie | Mana | Mental | Physique | Social
 * Barrière de flamme (3)
 
 ## Inventaires :
-* Baton magique (D4; +2 dégâts des sorts; Ambidextre : +Malus)
-* Epée courte (D8; +Bonus vitesse)
+* Dague Ensorcelé (D6; +Bonus vitesse, +1 dégâts des sorts; Ambidextre : +Bonus)
+* Bouclier Brassard di Luna (bouclier lune fixé sur le brassard; indice 1)
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 * Tenue de discrétion
