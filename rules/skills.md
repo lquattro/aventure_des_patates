@@ -1,5 +1,7 @@
 # Compétences #
 
+## Catégorie A
+
 * Ambidextre (port de deux armes dans chaque main)
 * Ami des bêtes : 20%
 * Arc : 20%
@@ -39,3 +41,16 @@
 * Toubib : 20%
 * Vampirisme : drain de vie X dégats / X pv (Possibilité d'être incontrolable)
 * Vie en nature : 10%
+
+## Catégorie B
+
+<!-- Work in progress -->
+* Maitre Bouclier : 20% (Remplace Bouclier, PréRequis la compétence remplacée)
+* Défenseur de l'équipe : 15% (Bonus actif uniquement quand le défenseur défend volontairement un membre de l'équipe, bonus cumulable : Bouclier contre une attaque physique ou Esprit résistant contre une attaque mental)
+* Enchanteur : 15% (Compétences réservées au Mage OU forgeron)
+* Charmeur : 15%
+* Chef d'équipe : 5% (Aura qui imprègne l'équipe)
+
+## Catégorie C
+
+<!-- Work in progress -->
