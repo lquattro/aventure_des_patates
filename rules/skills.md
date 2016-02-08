@@ -2,6 +2,8 @@
 
 ## Catégorie A
 
+Catégorie accessible dès le niveau 1.
+
 * Ambidextre (port de deux armes dans chaque main)
 * Ami des bêtes : 20%
 * Arc : 20%
@@ -44,6 +46,8 @@
 
 ## Catégorie B
 
+Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
+
 <!-- Work in progress -->
 * Charmeur : 15%
 * Chef d'équipe : 5% (Aura qui imprègne l'équipe)
@@ -53,6 +57,8 @@
 * Noble : 15% (Remplace Citadin, PréRequis la compétence remplacée)
 
 ## Catégorie C
+
+Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
 
 <!-- Work in progress -->
 * Expert Bouclier : 25% (Remplace Maitre Bouclier, PréRequis la compétence remplacée)
