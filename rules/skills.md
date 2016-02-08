@@ -1,5 +1,9 @@
 # Compétences #
 
+## Catégorie A
+
+Catégorie accessible dès le niveau 1.
+
 * Ambidextre (port de deux armes dans chaque main)
 * Ami des bêtes : 20%
 * Arc : 20%
@@ -39,3 +43,25 @@
 * Toubib : 20%
 * Vampirisme : drain de vie X dégats / X pv (Possibilité d'être incontrolable)
 * Vie en nature : 10%
+
+## Catégorie B
+
+Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
+
+<!-- Work in progress -->
+* Charmeur : 15%
+* Chef d'équipe : 5% (Aura qui imprègne l'équipe)
+* Défenseur de l'équipe : 15% (Bonus actif uniquement quand le défenseur défend volontairement un membre de l'équipe, bonus cumulable : Bouclier contre une attaque physique ou Esprit résistant contre une attaque mental)
+* Enchanteur : 15% (Compétences réservées au Mage OU forgeron)
+* Maitre Bouclier : 20% (Remplace Bouclier, PréRequis la compétence remplacée)
+* Noble : 15% (Remplace Citadin, PréRequis la compétence remplacée)
+
+## Catégorie C
+
+Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
+
+<!-- Work in progress -->
+* Expert Bouclier : 25% (Remplace Maitre Bouclier, PréRequis la compétence remplacée)
+* ViComte : 20% (Remplace Noble, PréRequis la compétence remplacée)
+* Leader né : 10% (Aura qui imprègne l'équipe, Remplace Chef d'équipe, PréRequis la compétence remplacée)
+* Maitre Enchanteur : 20% (Compétences réservées au Mage OU forgeron, Remplace Enchanteur, PréRequis la compétence remplacée)
