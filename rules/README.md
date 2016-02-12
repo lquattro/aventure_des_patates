@@ -16,6 +16,7 @@
 - [Rêgles sur les feuilles personnages](#rêgles-sur-les-feuilles-personnages)
 - [Le Leveling](#le-leveling)
 
+---
 
 ## Les bases
 
@@ -70,6 +71,7 @@ Un personnage n'est pas automatiquement mort après plusieurs inconscience, tout
 ### La barre de mana
 La mana est la ressource magique qu'un personnage possède. Chaque action de don coûte de la magie et puise automatiquement dans les ressources de mana. Quand un personnage épuise toute sa mana, le personnage peut puiser dans sa vie pour faire des actions magiques.
 
+---
 
 ## Les dons
 
@@ -81,11 +83,15 @@ Plus une catégorie est laissé à l'abandon et plus il y a un risque de malus p
 * [Les classes](classes/README.md)
 * [Les ordres magiques](orders/README.md)
 
+---
+
 ## Les compétences
 
 Pour chaque personnage, les compétences sont généralement issues d'entrainement et correspondent à des bonus applicable en permanence dans le jeu suivant les contextes d'usage.
 
 [Les compétences](skills.md)
+
+---
 
 ## Les équipements
 
@@ -94,11 +100,15 @@ Le choix du nombre d'objet par personnage est au choix du Maitre du jeu (à la v
 
 [L'inventaire](objects_inventory.md)
 
+---
+
 ## Rêgles sur les feuilles personnages
 
 Pour avoir un résumé des personnages joués par les joueurs, on utilise une fiche personnage qui renseigne tous les caractéristiques nécessaires du personnage. Cela aide les joueurs et le maitre des jeux pendant les parties.
 
 [Fiche personnage](character_profil.md)
+
+---
 
 ## Le Leveling
 
