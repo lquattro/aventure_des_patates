@@ -2,13 +2,15 @@
 
 *Il est conseillé qu'uniquement le Maitre du jeu consulte les scénarios.*
 
-## Court
+## Court  ![Court](../icons/speed.png)
 
 * [Plus de patate nouvelle...](plusdepatatenouvelle.md)
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 ~ 2h | très bon | Normal | Normal | Normal
+
+---
 
 ## Moyen
 
@@ -24,7 +26,9 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 ~ 8h | bon | Normal | Normal | Normal
 
-## Long
+---
+
+## Long ![Long](../icons/slow.png)
 
 * [La pierre de transmutation](lapierredetransmutation.md)
 
