@@ -2,7 +2,7 @@
 
 *Il est conseillé qu'uniquement le Maitre du jeu consulte les scénarios.*
 
-## Court  ![Court](../icons/speed.png)
+## Court ![Court](../icons/speed.png)
 
 * [Plus de patate nouvelle...](plusdepatatenouvelle.md)
 
