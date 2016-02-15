@@ -12,7 +12,7 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 
 ---
 
-## Moyen
+## Moyen ![Moyen](../icons/patate.png)
 
 * [Un beau potager](unbeaupotager.md)
 
