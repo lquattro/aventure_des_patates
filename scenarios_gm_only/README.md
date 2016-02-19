@@ -10,6 +10,12 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 ~ 2h | très bon | Normal | Normal | Normal
 
+* [La malédiction cochonou](lamaledictioncochonou.md)
+
+Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
+--- | --- | --- | --- | ---
+entre 1h-3h | bon | Peu | Beaucoup | Peu
+
 ---
 
 ## Moyen ![Moyen](../icons/patate.png)
@@ -18,7 +24,7 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
-entre 1h30 & 6h | bon | Peu | Beaucoup | Peu
+entre 1h30-6h | bon | Peu | Beaucoup | Peu
 
 * [La guilde du savoir](laguildedusavoir.md)
 
