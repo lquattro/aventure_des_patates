@@ -10,11 +10,11 @@ Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
 ~ 2h | très bon | Normal | Normal | Normal
 
-* [La malédiction cochonou](lamaledictioncochonou)
+* [La malédiction cochonou](lamaledictioncochonou.md)
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
-entre 2h-4h | bon | Normal | Normal | Peu
+entre 1h-3h | bon | Peu | Beaucoup | Peu
 
 ---
 
