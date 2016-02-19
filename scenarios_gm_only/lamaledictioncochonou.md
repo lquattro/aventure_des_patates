@@ -13,9 +13,10 @@ Cela fait des mois qu'il a affamé correctement et dressé ces cochons. Ce matin
 ## Evolution du scénario
 
 Les aventuriers après avoir récupéré la mission pourront :
+
 Avant l'attaque du village : 
 * Aider à préparer les défenses de Stolons. 
-* Sortir du village (Fuir, intercepter Hervé, se sacrifié et combattre en dehors de la ville)
+* Sortir du village (Fuir ou intercepter Hervé ou se sacrifié et combattre en dehors de la ville)
 
 Pendant l'attaque du village : 
 * Fuir Stolons (Malus- considération)
@@ -29,7 +30,7 @@ Le village de Stolons est encerclé par les cochons, voir déjà infesté : la f
 * Avant l'assaut : Un champs propre; et pendant l'assaut : totalement dévasté.
 
 ### La mairie (Stolons)
-* A la mairie, la secrétaire du village n'a pas remarqué la disparition du chef. Elle est plus occupé à trier les papiers et faire des dossiers qu'autre chose. De plus, elle est un peu conne et veut toujours refourguer des parchemins de l'ordre de la pataterie. 
+* La mairie est fermer.
 
 ### La crêche (Stolons)
 * A la crêche, la femme du chef est en train de donner des leçons aux patates nouvelles.
