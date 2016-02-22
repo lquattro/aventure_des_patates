@@ -2,7 +2,7 @@
 
 ## Synopsis pour le MJ (à ne pas dévoiler aux joueurs...)
 
-A Hamel, "Hervé Le Traiteur" a décidé de mettre fin à la famine de ces cochons. Il achetait des patates bon marché à Stolons quand c'était une ville humaine. Il a pris part au assaut contre le village patate plusieurs fois. Depuis que le traité de paix a été signé entre les villes autour de Stolons, impuissant, il migote une attaque contre le village.
+A Pigbourg, "Hervé Le Traiteur" a décidé de mettre fin à la famine de ces cochons. Il achetait des patates bon marché à Stolons quand c'était une ville humaine. Il a pris part au assaut contre le village patate plusieurs fois. Depuis que le traité de paix a été signé entre les villes autour de Stolons, impuissant, il migote une attaque contre le village.
 Cela fait des mois qu'il a affamé correctement et dressé ces cochons. Ce matin Hervé dépose des cages à cochon autour du village de Stolons et dès que tout sera prêt dans une heure, il lancera l'assaut.
 
 ## Récupérer la mission
@@ -73,7 +73,7 @@ Garde de la ville 2 (Archer) | 20hp / 8mp | 55/75/40 | D8 | Arc à poulie, Armur
 
 Name | HP/MP | Percentage | Dices | Equipment | Spell
 :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
-Cochon affamé 1 | 35hp / 2mp | 40/75/40 | D10 | Dent, Peau de bête | Null
+Cochon affamé 1 | 35hp / 2mp | 40/75/40 | D8 | Dent, Peau de bête | Null
 Cochon affamé faible 1 | 20hp / 2mp | 40/60/40 | D6 | Dent cassé, Peau de bête | Null
-Boss Cochon de Guerre | 50hp / 4mp | 60/75/40 | D4 | Dent, Peau de bête, Armure de chaine en fer (3) | Charge puissante (1; Stun + 1D4 de dégâts)
+Boss Cochon de Guerre | 50hp / 4mp | 60/75/40 | D10 | Dent en metal, Peau de bête, Armure de chaine en fer (3) | Charge puissante (1; Stun + 1D4 de dégâts)
 Hervé | 35hp / 8mp | 50/70/50 | D4 +3, D8 +2 | Pistolet à percussion, Hache de boucher à 1 main, Armure cuir (2), 40PO | Contre-attaque (1)
