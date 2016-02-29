@@ -36,6 +36,12 @@ L'académie d'archerie a débutée...
 
 ### Catégorie B
 
+* Tir Double (3; 1 tirs)
+<br><i> Permet de faire un tir avec deux flèches sur la corde.</i>
+
 ---
 
 ### Catégorie C
+
+* Tir de l'aigle (6; +1D8 de dégâts; Projection de l'ennemi)
+<br><i> Permet de faire un tir puissant imprégné de l'aigle, qui projecte l'ennemi en arrière.</i>
