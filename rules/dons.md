@@ -1,22 +1,24 @@
 # Dons #
 
-# Classe
+<!-- Description Dons -->
 
-## Archer
+## Classe
 
-### Description
+### Archer
+
+#### Description
 
 Les patates ditent archers, sont en réalitées celles qui sortent de l'académie d'archerie.
 Elles ont suivis des cours communs avec les autres académies, mais surtout des cours leurs apprenant le bon maniement des armes à distance, de la furtivité et divers capacitées d'archer.
 
-### Histoire
+#### Histoire
 
 <!-- Story Archer -->
 L'académie d'archerie a débutée...
 
-### Dons
+#### Dons
 
-#### Catégorie A
+##### Catégorie A
 
 * Contre-attaque (1)
 <br><i>Permet de tenter une contre attaque (Possible uniquement une fois par tour).</i>
@@ -36,27 +38,25 @@ L'académie d'archerie a débutée...
 * Tir Rapide (2; 2 tirs; -20%)
 <br><i>Permet de faire deux tirs de flèches rapidements.</i>
 
-#### Catégorie B
+##### Catégorie B
 
 * Tir Double (3; 1 tirs)
 <br><i> Permet de faire un tir avec deux flèches sur la corde.</i>
 
-#### Catégorie C
+##### Catégorie C
 
 * Tir de l'aigle (6; +1D8 de dégâts; Projection de l'ennemi)
 <br><i> Permet de faire un tir puissant imprégné de l'aigle, qui projecte l'ennemi en arrière.</i>
 
----
+### Guerrier
 
-## Guerrier
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons
 
-### Dons
-
-#### Catégorie A
+##### Catégorie A
 
 * Barrage anti-projectile (1)
 * Charge puissante (1; Stun + 1D4 de dégâts)
@@ -65,17 +65,15 @@ L'académie d'archerie a débutée...
 * Tourbillon (3)
 * Force d'Hercule (3; permet de porter une surcharge temporairement)
 
----
+### Mage
 
-## Mage
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons
 
-### Dons
-
-#### Catégorie A
+##### Catégorie A
 
 * Boule (1+ / 1D6)
 * Monture élémentaire (4; +2 cast)
@@ -84,17 +82,15 @@ L'académie d'archerie a débutée...
 * Rayon (3+ / 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
 * Télépathie (3; +1 cast)
 
----
+### Paladin
 
-## Paladin
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons
 
-### Dons
-
-#### Catégorie A
+##### Catégorie A
 
 * Aile magique (4+ round de maintien - coût de maintien 2)
 * Désenchantement (3; Supprime une malédiction/bénédiction)
@@ -105,7 +101,7 @@ L'académie d'archerie a débutée...
 
 ---
 
-# Ordre magique
+## Ordre magique
 
 <!-- Description orders -->
 Les dons élémentaires sont utilisables dans tous les ordres magiques.
@@ -116,90 +112,80 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Nuage élémentaire (3)
 
 
-## L'ordre de la divine patate (Lumière)
+### L'ordre de la divine patate (Lumière)
 
-### Description
+#### Description
 
-### Histoire
+#### Histoire
 
-### Dons Elémentaire
+#### Dons Elémentaire
 
-#### Catégorie A
+##### Catégorie A
 
 * Barrière de lumière chargé életriquement (3)
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
----
+### L'ordre de la patate aérée (Vent)
 
-## L'ordre de la patate aérée (Vent)
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons Elémentaire
 
-### Dons Elémentaire
-
-#### Catégorie A
+##### Catégorie A
 
 * Barrière corporelle (4)
 * Vole mineur (3)
 
----
+### L'ordre de la patate cuite (Feu)
 
-## L'ordre de la patate cuite (Feu)
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons Elémentaire
 
-### Dons Elémentaire
-
-#### Catégorie A
+##### Catégorie A
 
 * Barrière de flamme (3)
 * Enflammation magique (2)
 
----
+### L'ordre de la patate d'eau (Eau)
 
-## L'ordre de la patate d'eau (Eau)
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons Elémentaire
 
-### Dons Elémentaire
-
-#### Catégorie A
+##### Catégorie A
 
 * Bouclier de glace (3)
 * Cristallisation (1)
 
----
+### L'ordre de la pataterie (Obscure)
 
-## L'ordre de la pataterie (Obscure)
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons Elémentaire
 
-### Dons Elémentaire
-
-#### Catégorie A
+##### Catégorie A
 
 * Bouclier d'os (3)
 * Malédiction (Blesse X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
----
+### L'ordre de la pomme de terre (Terre)
 
-## L'ordre de la pomme de terre (Terre)
+#### Description
 
-### Description
+#### Histoire
 
-### Histoire
+#### Dons Elémentaire
 
-### Dons Elémentaire
-
-#### Catégorie A
+##### Catégorie A
 
 * Bouclier de terre (3)
 * Peau de roche (4)
