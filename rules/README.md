@@ -80,8 +80,7 @@ ceux de la classe choisie, et ceux de l'ordre magique choisie.
 Les joueurs ont le droit de séléctionner un nombre de dons par rapport à leurs niveaux. Ils peuvent très bien prendre la totalitée dans une catégorie. 
 Plus une catégorie est laissé à l'abandon et plus il y a un risque de malus pour les tests d'action en extrème condition (pourcentage).
 
-* [Les classes](classes/README.md)
-* [Les ordres magiques](orders/README.md)
+* [Les dons](dons.md)
 
 ---
 

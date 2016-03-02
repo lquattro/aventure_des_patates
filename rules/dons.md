@@ -1,6 +1,23 @@
 # Dons #
 
+#### Description
 <!-- Description Dons -->
+
+#### Sommaire
+
+- [Classe](#classe)
+   - [Archer](#archer)
+   - [Guerrier](#guerrier)
+   - [Mage](#mage)
+   - [Paladin](#paladin)
+- [Ordre magique](#ordre-magique)
+   - [L'ordre de la divine patate (Lumière)](#lordre-de-la-divine-patate-lumière)
+   - [L'ordre de la mécha-patate (Machine)](#lordre-de-la-mécha-patate-machine)
+   - [L'ordre de la patate aérée (Vent)](#lordre-de-la-patate-aérée-vent)
+   - [L'ordre de la patate cuite (Feu)](#lordre-de-la-patate-cuite-feu)
+   - [L'ordre de la patate d'eau (Eau)](#lordre-de-la-patate-deau-eau)
+   - [L'ordre de la pataterie (Obscure)](#lordre-de-la-pataterie-obscure)
+   - [L'ordre de la pomme de terre (Terre)](#lordre-de-la-pomme-de-terre-terre)
 
 ## Classe
 
@@ -124,6 +141,20 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Barrière de lumière chargé életriquement (3)
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
+
+### L'ordre de la mécha-patate (Machine)
+
+#### Description
+
+#### Histoire
+
+#### Dons Elémentaire
+
+##### Catégorie A
+
+* Bouclier rétractable (1)
+* Bouclier énergétique (X mana pour X dégâts)
+* Vision infrarouge (2)
 
 ### L'ordre de la patate aérée (Vent)
 
