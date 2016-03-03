@@ -19,6 +19,7 @@
    - [L'ordre de la pataterie (Obscure)](#lordre-de-la-pataterie-obscure)
    - [L'ordre de la pomme de terre (Terre)](#lordre-de-la-pomme-de-terre-terre)
 
+<br>
 ## Classe
 
 ### Archer
@@ -65,6 +66,7 @@ L'académie d'archerie a débutée...
 * Tir de l'aigle (6; +1D8 de dégâts; Projection de l'ennemi)
 <br><i> Permet de faire un tir puissant imprégné de l'aigle, qui projecte l'ennemi en arrière.</i>
 
+<br>
 ### Guerrier
 
 #### Description
@@ -82,6 +84,7 @@ L'académie d'archerie a débutée...
 * Tourbillon (3)
 * Force d'Hercule (3; permet de porter une surcharge temporairement)
 
+<br>
 ### Mage
 
 #### Description
@@ -99,6 +102,7 @@ L'académie d'archerie a débutée...
 * Rayon (3+ / 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
 * Télépathie (3; +1 cast)
 
+<br>
 ### Paladin
 
 #### Description
@@ -116,6 +120,8 @@ L'académie d'archerie a débutée...
 * Méditation (Regen X Mana / X Tour)
 * Protection magique (4, Protéction + 1D6)
 
+<br>
+
 ---
 
 ## Ordre magique
@@ -128,7 +134,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Invocation créature mineur (3+ round de maintien - coût de maintien 2)
 * Nuage élémentaire (3)
 
-
+<br>
 ### L'ordre de la divine patate (Lumière)
 
 #### Description
@@ -142,6 +148,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Barrière de lumière chargé életriquement (3)
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
+<br>
 ### L'ordre de la mécha-patate (Machine)
 
 #### Description
@@ -156,6 +163,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier énergétique (X mana pour X dégâts)
 * Vision infrarouge (2)
 
+<br>
 ### L'ordre de la patate aérée (Vent)
 
 #### Description
@@ -169,6 +177,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Barrière corporelle (4)
 * Vole mineur (3)
 
+<br>
 ### L'ordre de la patate cuite (Feu)
 
 #### Description
@@ -182,6 +191,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Barrière de flamme (3)
 * Enflammation magique (2)
 
+<br>
 ### L'ordre de la patate d'eau (Eau)
 
 #### Description
@@ -195,6 +205,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier de glace (3)
 * Cristallisation (1)
 
+<br>
 ### L'ordre de la pataterie (Obscure)
 
 #### Description
@@ -208,6 +219,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier d'os (3)
 * Malédiction (Blesse X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
+<br>
 ### L'ordre de la pomme de terre (Terre)
 
 #### Description
