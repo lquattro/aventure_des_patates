@@ -2,26 +2,37 @@
 
 ## Synopsis pour le MJ (à ne pas dévoiler aux joueurs...)
 
-Sur son galion, "Irgen le poireau des mers" est en route pour un assaut sur le village de stolon. Ils comptent piller ces sales patates, qui pour lui ne sont pas aussi noble que les poireaux qui ne s'enfouie pas sous terre, et vont jusqu'en mer. Ce pirate possède son galion et deux autres navires caravelles. Il a fait une halte dans le port côtier du village humain d'Hamel. Il se réapprovisionne en vivre, et poudre à canon. Il devrait repartir dans deux jours pour son assaut.
+Sur son galion, "Irgen l'apothicaire" est en route pour un assaut sur le village de stolon. Ils comptent piller le village patates afin de récolter assez de ressource pour acheter des vivres et médicaments qui aideront les familles des hommes poireaux. Ce pirate possède son galion marchand rafistolé pour la guerre et deux autres navires caravelles. Dans la soute du galion, il y a toutes les femmes et enfants poireaux. Les hommes poireaux sont considérés comme abomination au même titre que les hommes patates et les morts vivants. Irgen possède un bracelet de polymorphie, lui permettant de jour d'être sous forme humaine. C'est uniquement la forme humaine du capitaine qui est connu.
+Ce capitaine est réputé pour ne laisser aucun survivant chez ces ennemis, et d'être un précieux allié ainsi qu'un bon apothicaire. Cette forme humaine lui permet ainsi d'acheter des vivres et médicaments pour les familles et l'équipage des bateaux; mais cela coute très chère. Il a fait une halte dans le port côtier du village humain d'Hamel pour le ravitaillement. Ces matelots restent discrêt et toujours un maximum camouflé avec des habits longs et chaud, afin de cacher leurs véritables natures. Il se réapprovisionne en vivre, et poudre à canon. Il devrait repartir dans deux jours pour son assaut. Sans le pillage du village, les hommes poireaux malades sont condamnées.
 
 ## Récupérer la mission
 
 * Si les aventuriers s'entendent bien avec le chef du village de Stolons (ou la femme du chef, si le chef est mort) : un messager viendra porter la lettre de mission directement vers les aventuriers quand ils seront dans les rues d'une ville.
-La lettre informera qu'un espion à Hamel a entendu d'un des matelos d'Irgen le poireau des mers, que les pirates ont prévu d'attaquer le village de Stolons. 
-* Si les aventuriers ne s'entendent pas bien avec le chef du village de Stolons, dans Stolons les aventuriers pourront voir l'agitation et pourront peut-être avoir des informations auprès des soldats pour la préparation du port. Dans une autre ville, les tavernes et la mairie possèdent l'information que Stolons est en train de subir une attaque sur son port.
-* Si les aventuriers sont en dehors de Stolons et pas dans une ville, les aventuriers trouveront sur leurs chemins une affiche abandonné qui informe que le port du village de Stolons se fait attaquer par des pirates.
+La lettre informera que d'étrange ver sont chantés par des troubadours d'Hamel : 
+"Un vent frait dans les airs, chantent l'arrivé en mer;
+D'un beau bois destrier, qui vient de s'amarer;
+Une fumée sur la terre, chantent cette apothicaire;
+Sur Stolons est rivé, sa grande avidité;
+La lala la, la lalalala..."
+
+* Si les aventuriers ne s'entendent pas bien avec le chef du village de Stolons, aucun messager ne viendra. Il y a uniquement dans la taverne de Stolons qu'un barde discret la chantonne, encore faut-il l'entendre.
+
+* Si les aventuriers n'ont pas trouvés la quête, si ils sont dans Stolons : ils subiront l'attaque; sinon une affiche sur un panneau donnera l'information que le village de Stolons sait fait attaquer.
 
 ## Evolution du scénario
 
 Les aventuriers après avoir récupéré la mission pourront :
 Avant l'attaque du port :  
 * Aider à préparer les défences du port de Stolons. 
-* Aller à Hamel assassiner Irgen le poireau des mers ou saboter les navires dans la ville d'Hamel.
+* Aller à Hamel rencontrer Irgen l'apothicaire ou saboter les navires dans la ville d'Hamel.
 * Réquisitionner ou Acheter un navire pour attaquer en mer Irgen.
+* Ou diverse proposition des joueurs (au choix du MJ de l'accorder ou pas).
 
 Pendant l'attaque du port : 
 * Fuir Stolons (si ils sont dans Stolons), ou ne pas aider Stolons (Conséquence au choix du MJ)
 * Aider à repousser l'ennemi.
+* Soudoyer ou aider Irgen.
+* Ou diverse proposition des joueurs (au choix du MJ de l'accorder ou pas).
 
 ## Les lieux
 
@@ -43,7 +54,7 @@ Les citadins vivent tranquillement.
 ### La ville portuaire d'Hamel
 
 La ville humaine d'Hamel est un grand regroupement racial. C'est un lieu propisse au commerce. On vend de tout, et tout à un prix.
-Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être pas facile de trouver les bâteaux d'Irgen le poireau des mers.
+Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être pas facile de trouver les bâteaux d'Irgen l'apothicaire.
 
 ## La fin de la mission
 
@@ -54,6 +65,7 @@ Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être
 ## Annexes
 ### Les butins
 
+* Irgen : possède un bracelet de polymorphie
 * Dans le Galion d'Irgen : Coffre de 200 PO, des vivres, des armes standards, des vêtements, un collier de perle marin.
 * Dans chaque caravelle : Vivres, armes standards.
 * Récompense du Leader Stolons : 100 PO.
@@ -74,7 +86,7 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 Pirate Homme poireau 1 (Guerrier) | 20hp / 2mp | 45/60/45 | D10 | Epée x2, Armure de cuir (2), 2PO | Null
 Pirate Homme poireau 2 (Archer) | 18hp / 5mp | 45/60/45 | D4 + 2, D8 | Pistolet à percussion, Epée courte, Armure de cuir (2), 2PO | Sprint (1)
 Pirate Canonier (Archer) | 18hp / 4mp | 40/70/50 | D4 | Dague rouillé, 1PO | Null
-Irgen (Archer) | 35hp / 8mp | 50/70/50 | D4 +3, D8 | Pistolet à percussion x2, Epée courte, Armure cuir (2), 40PO | Contre-attaque (1)
+Irgen (Archer) | 45hp / 8mp | 50/70/50 | D4 +3, D8 | Pistolet à percussion x2, Epée courte, Armure cuir (2), 40PO, Bague en fer, Bracelet* | Contre-attaque (1)
 
 **La forêt des toufus**
 
