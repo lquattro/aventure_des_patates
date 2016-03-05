@@ -2,26 +2,26 @@
 
 ## Synopsis pour le MJ (à ne pas dévoiler aux joueurs...)
 
-Sur son galion, "Irgen l'apothicaire" est en route pour un assaut sur le village de stolon. Ils comptent piller le village patates afin de récolter assez de ressource pour acheter des vivres et médicaments qui aideront les familles des hommes poireaux. Ce pirate possède son galion marchand rafistolé pour la guerre et deux autres navires caravelles. Dans la soute du galion, il y a toutes les femmes et enfants poireaux. Les hommes poireaux sont considérés comme abomination au même titre que les hommes patates et les morts vivants. Irgen possède un bracelet de polymorphie, lui permettant de jour d'être sous forme humaine. C'est uniquement la forme humaine du capitaine qui est connu.
-Ce capitaine est réputé pour ne laisser aucun survivant chez ces ennemis, et d'être un précieux allié ainsi qu'un bon apothicaire. Cette forme humaine lui permet ainsi d'acheter des vivres et médicaments pour les familles et l'équipage des bateaux; mais cela coute très chère. Il a fait une halte dans le port côtier du village humain d'Hamel pour le ravitaillement. Ces matelots restent discrêt et toujours un maximum camouflé avec des habits longs et chaud, afin de cacher leurs véritables natures. Il se réapprovisionne en vivre, et poudre à canon. Il devrait repartir dans deux jours pour son assaut. Sans le pillage du village, les hommes poireaux malades sont condamnées.
+Sur son galion, "Irgen l'apothicaire" est en route pour un assaut sur le village de Stolons. Il compte piller le village patate afin de récolter assez de ressource pour acheter des vivres et médicaments qui aideront les familles des hommes poireaux. Ce pirate possède son galion marchand rafistolé pour la guerre et deux autres navires caravelles. Dans la soute du galion, il y a toutes les femmes et enfants poireaux. Les hommes poireaux sont considérés comme abomination au même titre que les hommes patates et les morts vivants. Irgen possède un bracelet de polymorphie, lui permettant de jour d'être sous forme humaine. C'est uniquement la forme humaine du capitaine qui est connu.
+Ce capitaine est réputé pour ne laisser aucun survivant chez ces ennemis, et d'être un précieux allié ainsi qu'un bon apothicaire. Cette forme humaine lui permet ainsi d'acheter des vivres et médicaments pour les familles et l'équipage des bateaux et cela lui coute chère. Il a fait une halte dans le port côtier du village humain d'Hamel pour le ravitaillement. Ces matelots restent discrêt et toujours un maximum camouflé avec des habits longs et chaud, afin de cacher leurs véritables natures. Le capitaine réapprovisionne en vivre, et en poudre à canon. Il devrait repartir dans deux jours pour son assaut. Sans le pillage du village, les hommes poireaux malades sont condamnés.
 
 ## Récupérer la mission
 
-* Si les aventuriers s'entendent bien avec le chef du village de Stolons (ou la femme du chef, si le chef est mort) : un messager viendra porter la lettre de mission directement vers les aventuriers quand ils seront dans les rues d'une ville.
-La lettre informera que d'étrange ver sont chantés par des troubadours d'Hamel : 
+* Si les aventuriers s'entendent bien avec le chef du village de Stolons (ou la femme du chef, si le chef est mort) : un messagé viendra porter la lettre de mission directement vers les aventuriers quand ils seront dans les rues d'une ville.
+La lettre informera que d'étrange vers sont chantés par des troubadours d'Hamel : 
 "Un vent frait dans les airs, chantent l'arrivé en mer;
 D'un beau bois destrier, qui vient de s'amarer;
 Une fumée sur la terre, chantent cette apothicaire;
 Sur Stolons est rivé, sa grande avidité;
 La lala la, la lalalala..."
 
-* Si les aventuriers ne s'entendent pas bien avec le chef du village de Stolons, aucun messager ne viendra. Il y a uniquement dans la taverne de Stolons qu'un barde discret la chantonne, encore faut-il l'entendre.
+* Si les aventuriers ne s'entendent pas bien avec le chef du village de Stolons, aucun messagé ne viendra. Il y a uniquement dans la taverne de Stolons qu'un barde discret la chantonne, encore faut-il l'entendre.
 
-* Si les aventuriers n'ont pas trouvés la quête, si ils sont dans Stolons : ils subiront l'attaque; sinon une affiche sur un panneau donnera l'information que le village de Stolons sait fait attaquer.
+* Si les aventuriers n'ont pas trouvés la quête, s'ils sont dans Stolons : ils subiront l'attaque; sinon une affiche sur un panneau donnera l'information que le village de Stolons sait fait attaquer.
 
 ## Evolution du scénario
 
-Les aventuriers après avoir récupéré la mission pourront :
+Les aventuriers après avoir récupérés la mission pourront :
 Avant l'attaque du port :  
 * Aider à préparer les défences du port de Stolons. 
 * Aller à Hamel rencontrer Irgen l'apothicaire ou saboter les navires dans la ville d'Hamel.
@@ -43,13 +43,13 @@ Des légendes urbaines racontent, que des elfes sylvains vivraient dans cette fo
 
 ### Le port de Stolons
 
-Le port est grandement agité, les soldats patrouilles dans tous les sens et renforce les défences.
-Il y a cependant une volontée de ne pas affoler la population, c'est pourquoi les pécheurs, marchands et autres civils sont présents sans trop d'inquiétude.
+De base, le port est paysible et peu armé, les soldats patrouilles de temps en temps.
+Les pécheurs, marchands et autres civils sont présents sans trop d'inquiétude.
 
 ### La ville de Stolons
 
-La ville de Stolons est en soit un peu plus alerte. Les gardes sont moins cléments et beaucoup plus à l'affux du moindre problème.
 Les citadins vivent tranquillement.
+Le forgeron est ouvert avec peu de marchandise.
 
 ### La ville portuaire d'Hamel
 
@@ -60,7 +60,7 @@ Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être
 
 * Si le village de Stolons est sauvé, le leader du village récompensera les aventuriers. (Bonus++ considération)
 * Si le village de Stolons est pillé (Malus- considération)
-* Si le village de Stolons est capturé, le village devient Homme poireau  
+* D'autre fin de mission sont possibles suivant les actions des joueurs (au choix du MJ).
 
 ## Annexes
 ### Les butins
