@@ -106,7 +106,13 @@ L'académie des guerriers a débutée...
 
 #### Description
 
+Les patates magiciennes sont les plus sensibles aux éléments. Affilié à une nature élémentaire, il possède une puissance magique plus qu'impressionnante : pouvant aller du simple maniement de l'élément à des boules titanesques.
+Généralement avec un physique un peu frèle, ce sont les plus fines patates de part le peu d'entrainement physique enseigné à l'école de magie. Très habile avec les livres de sorts, il n'en reste pas moins d'excelent partenaire d'aventure.
+
 #### Histoire
+
+<!-- Story Mage -->
+L'académie des mages a débutée...
 
 #### Dons
 
@@ -121,12 +127,21 @@ L'académie des guerriers a débutée...
 
 ##### Catégorie B
 
+* Enchantement d'objet (12 / Mental % soumis à la gemme spirituel, mais n'exclus pas les bonus de compétences du personnage qui pratique l'enchantement).
+
 ##### Catégorie C
+
+* Météor élémentaire (12 / 1D20 dégâts + 5 dégâts)
 
 <br>
 ### Paladin
 
 #### Description
+
+Soumis à un ordre magique radical, les paladins sont des patates qui n'ont vécu que avec l'ordre magique.
+Potentiellement fanatique et puissant, ils sont le mélange d'un guerrier et d'un mage.
+Il y a seulement deux ordres magiques qui enseigne cette classe : L'ordre de la divine patate (Lumière) et L'ordre de la pataterie (Obscure).
+<i>Faites attention aux mots que vous utilisez devant eux...</i>
 
 #### Histoire
 
@@ -143,7 +158,11 @@ L'académie des guerriers a débutée...
 
 ##### Catégorie B
 
+* Résurection (8; Soigne une personne dans le coma + Ajoute un effet secondaire aléatoire suivant l'ordre magique du paladin)
+
 ##### Catégorie C
+
+* Purification de groupe (5+ 3 par membre; Supprime deux malédictions/bénédictions d'un groupe)
 
 <br>
 
