@@ -71,18 +71,35 @@ L'académie d'archerie a débutée...
 
 #### Description
 
+Dotés d'une peau extrèmement résistante et d'une puissance de combat assez hors du commun, les guerriers sont les patates qu'on ne désire ne jamais avoir trop prêt de soit quand on est leurs ennemis.
+Entrainé à la dur dans l'académie des guerriers, ce sont les patates les plus coriaces sur un champs de bataille.
+Ils maitrisent toutes les armes de corps à corps et ont appris à manier ceux à distance.
+<i>Ce sont des vrais bouchers ! Faites attention aux patates berserkers...</i>
+
 #### Histoire
+
+<!-- Story Guerrier -->
+L'académie des guerriers a débutée...
 
 #### Dons
 
 ##### Catégorie A
 
 * Barrage anti-projectile (1)
-* Charge puissante (1; Stun + 1D4 de dégâts)
+* Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts)
 * Contre-attaque (1)
 * Frappe forte (1; 1D4 de dégâts)
 * Tourbillon (3)
 * Force d'Hercule (3; permet de porter une surcharge temporairement)
+
+##### Catégorie B
+
+* Cri de terreur (2; fait fuir les proches faibles esprits ennemis et alliés)
+* Charge du Bellier (5; puissante charge renversant les ennemis sur son trajet)
+
+##### Catégorie C
+
+* Cri Dovahkin (4; projète les ennemis sur un rayon de 45°c + dégâts de chute)
 
 <br>
 ### Mage
@@ -102,6 +119,10 @@ L'académie d'archerie a débutée...
 * Rayon (3+ / 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
 * Télépathie (3; +1 cast)
 
+##### Catégorie B
+
+##### Catégorie C
+
 <br>
 ### Paladin
 
@@ -119,6 +140,10 @@ L'académie d'archerie a débutée...
 * Jugement (2; Charge un objet métallique en dégâts supplémentaire élémentaire 1D6 dégâts)
 * Méditation (Regen X Mana / X Tour)
 * Protection magique (4, Protéction + 1D6)
+
+##### Catégorie B
+
+##### Catégorie C
 
 <br>
 
