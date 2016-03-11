@@ -170,7 +170,19 @@ Il y a seulement deux ordres magiques qui enseigne cette classe : L'ordre de la 
 
 ## Ordre magique
 
-<!-- Description orders -->
+### Histoire
+
+Après la libérations des hommes patates, il a fallu plusieurs années pour que les ordres magiques voient le jour. 
+Le début provient de l'enseignement, celle-ci ne faisait aucune distinction des particularitées de chaque individu, rendant plusieurs cours totalement inutiles pour les patates d'élément opposé.
+Afin de répondre à des problèmes de plus en plus fréquent, le maire de Stolons décida que des groupes d'enseignant soit formés pour séparer l'enseignement général et spécialisé. 
+Les Semi ou non élémentaires étaient maintenant mieux accompagnés dans leurs apprentissages. 
+Au fil du temps, les groupes ont évoluées en ordre : permettant un meilleur contacte avec les élèments et l'instauration de rêgle, droit et devoir. 
+Tous les ordres ont conservés le savoir des dons avant leurs séparations, et chaque ordre possède un ambassadeur. 
+Patates de haut rang dans les ordres magiques; les ambassadeurs discutent, partagent et prennent des décisions au conseil de magie, qui se réunis une fois par mois autour d'une table ronde sur tout ce qui concerne les ordres magiques et la magie en elle même.
+L'ordre de la mécha-patate est le dernière ordre qui a été créé et qui a rejoint le conseil de magie, grâce au conseil de magie.
+
+### Description
+
 Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Création (Génère de l'élément; 1) [mecha impossible]
@@ -192,6 +204,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Barrière de lumière chargé életriquement (3)
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
+##### Catégorie B
+
+##### Catégorie C
+
 <br>
 ### L'ordre de la mécha-patate (Machine)
 
@@ -207,6 +223,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier énergétique (X mana pour X dégâts)
 * Vision infrarouge (2)
 
+##### Catégorie B
+
+##### Catégorie C
+
 <br>
 ### L'ordre de la patate aérée (Vent)
 
@@ -220,6 +240,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Barrière corporelle (4)
 * Vole mineur (3)
+
+##### Catégorie B
+
+##### Catégorie C
 
 <br>
 ### L'ordre de la patate cuite (Feu)
@@ -235,6 +259,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Barrière de flamme (3)
 * Enflammation magique (2)
 
+##### Catégorie B
+
+##### Catégorie C
+
 <br>
 ### L'ordre de la patate d'eau (Eau)
 
@@ -248,6 +276,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Bouclier de glace (3)
 * Cristallisation (1)
+
+##### Catégorie B
+
+##### Catégorie C
 
 <br>
 ### L'ordre de la pataterie (Obscure)
@@ -263,6 +295,10 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier d'os (3)
 * Malédiction (Blesse X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 
+##### Catégorie B
+
+##### Catégorie C
+
 <br>
 ### L'ordre de la pomme de terre (Terre)
 
@@ -276,3 +312,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Bouclier de terre (3)
 * Peau de roche (4)
+
+##### Catégorie B
+
+##### Catégorie C
