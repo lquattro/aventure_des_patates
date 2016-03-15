@@ -91,6 +91,7 @@ L'académie des guerriers a débutée...
 * Frappe forte (1; 1D4 de dégâts)
 * Tourbillon (3)
 * Force d'Hercule (3; permet de porter une surcharge temporairement)
+* Spear (3; placage frontale, tête baissée renversant l'adversaire + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie")
 
 ##### Catégorie B
 
@@ -203,6 +204,8 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 * Barrière de lumière chargé életriquement (3)
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
+* Illumination (2, Invoque un boule énergétique de lumière qui éclaire sur certaine distance)
+* Imprégnation divine (2+, Imprégne un objet d'une lumière divine : très efficace contre tous les démons, coût de maintien 1)
 
 ##### Catégorie B
 
