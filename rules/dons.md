@@ -153,9 +153,9 @@ Il y a seulement deux ordres magiques qui enseigne cette classe : L'ordre de la 
 * Aile magique (4+ round de maintien - coût de maintien 2)
 * Désenchantement (3; Supprime une malédiction/bénédiction)
 * Frappe forte (1; +1D4 de dégâts)
-* Jugement (2; Charge un objet métallique en dégâts supplémentaire élémentaire 1D6 dégâts)
+* Jugement (2; Attaque magique en dégâts élémentaire 1D6 dégâts)
 * Méditation (Regen X Mana / X Tour)
-* Protection magique (4, Protéction + 1D6)
+* Protection magique (4, Protège magiquement sur 1D6 de dégâts)
 
 ##### Catégorie B
 
@@ -203,13 +203,17 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Barrière de lumière chargé életriquement (3)
-* Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
+* Rédemption (Soigne X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
 * Illumination (2, Invoque un boule énergétique de lumière qui éclaire sur certaine distance)
 * Imprégnation divine (2+, Imprégne un objet d'une lumière divine : très efficace contre tous les démons, coût de maintien 1)
 
 ##### Catégorie B
 
+* Imposition des mains (Soigne X*2 pour X mana dépensée)
+
 ##### Catégorie C
+
+* Pulsion divine (4, Soigne 6 points de vie les alliés et 6 de dégâts magique les ennemis)
 
 <br>
 ### L'ordre de la mécha-patate (Machine)
@@ -223,12 +227,17 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Bouclier rétractable (1)
-* Bouclier énergétique (X mana pour X dégâts)
+* Bouclier énergétique (Protège X dégâts pour X mana dépensée)
 * Vision infrarouge (2)
+* Lanceur de carreau rétractable (2, Permet de lancer des carreaux)
 
 ##### Catégorie B
 
+* Renforcement Nano (4, les nano-machines modifient la surface de la peau pour encaisser 2D4 de dégâts)
+
 ##### Catégorie C
+
+* Propulseur dorsale rétractable (4, permet de voler pendant quelques instants)
 
 <br>
 ### L'ordre de la patate aérée (Vent)
@@ -241,12 +250,18 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Barrière corporelle (4)
-* Vole mineur (3)
+* Barrière corporelle (2, écarte tous les projectibles contre soit pendant quelques instants)
+* Vole mineur (3, permet de voler pendant quelques instants)
+* Projection d'objet (1, projecte/ramène un objet grâce au vent)
 
 ##### Catégorie B
 
+* Poigne (4, permet de suspendre un objet/ennemi pendant quelques instants)
+* Vole majeur (6, permet de voler pendant un moment)
+
 ##### Catégorie C
+
+* Maitrise de vole (7, permet de voler, remplace le Vole Majeur)
 
 <br>
 ### L'ordre de la patate cuite (Feu)
@@ -260,11 +275,17 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Barrière de flamme (3)
-* Enflammation magique (2)
+* Enflammation magique (2+, Enflamme un objet, coût de maintien 1)
+* Résistance au feu (3, creait une sphère sur une personne qui protège le porteur de toute flamme)
+* Création de magma (4, permet la création d'un petit cratère de magma)
 
 ##### Catégorie B
 
+* Manipulation des flammes (5, Permet de faire bouger les flammes pendant quelques instants)
+
 ##### Catégorie C
+
+* Phoenix (8, uniquement 1 fois tous les 3 jours, le personnage peut s'enfermer dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon, le personnage retrouve toutes sa vie et mana, l'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins)
 
 <br>
 ### L'ordre de la patate d'eau (Eau)
