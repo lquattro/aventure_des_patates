@@ -128,6 +128,7 @@ L'académie des mages a débutée...
 
 ##### Catégorie B
 
+* Pulsion Arcanique (9, projecte 3 boules arcaniques qui explosent aux contactes; )
 * Enchantement d'objet (12 / Mental % soumis à la gemme spirituel, mais n'exclus pas les bonus de compétences du personnage qui pratique l'enchantement).
 
 ##### Catégorie C
@@ -213,7 +214,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie C
 
-* Pulsion divine (4, Soigne 6 points de vie les alliés et 6 de dégâts magique les ennemis)
+* Pulsion divine (4; Soigne 6 points de vie les alliés et 6 de dégâts magique les ennemis)
 
 <br>
 ### L'ordre de la mécha-patate (Machine)
@@ -229,15 +230,15 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier rétractable (1)
 * Bouclier énergétique (Protège X dégâts pour X mana dépensée)
 * Vision infrarouge (2)
-* Lanceur de carreau rétractable (2, Permet de lancer des carreaux)
+* Lanceur de carreau rétractable (2; Permet de lancer des carreaux)
 
 ##### Catégorie B
 
-* Renforcement Nano (4, les nano-machines modifient la surface de la peau pour encaisser 2D4 de dégâts)
+* Renforcement Nano (4; les nano-machines modifient la surface de la peau pour encaisser 2D4 de dégâts)
 
 ##### Catégorie C
 
-* Propulseur dorsale rétractable (4, permet de voler pendant quelques instants)
+* Propulseur dorsale rétractable (4; permet de voler pendant quelques instants)
 
 <br>
 ### L'ordre de la patate aérée (Vent)
@@ -250,18 +251,18 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Barrière corporelle (2, écarte tous les projectibles contre soit pendant quelques instants)
-* Vole mineur (3, permet de voler pendant quelques instants)
-* Projection d'objet (1, projecte/ramène un objet grâce au vent)
+* Barrière corporelle (2; écarte tous les projectibles contre soit pendant quelques instants)
+* Vole mineur (3; permet de voler pendant quelques instants)
+* Projection d'objet (1; projecte/ramène un objet grâce au vent)
 
 ##### Catégorie B
 
-* Poigne (4, permet de suspendre un objet/ennemi pendant quelques instants)
-* Vole majeur (6, permet de voler pendant un moment)
+* Poigne (4; permet de suspendre un objet/ennemi pendant quelques instants)
+* Vole majeur (6; permet de voler pendant un moment)
 
 ##### Catégorie C
 
-* Maitrise de vole (7, permet de voler, remplace le Vole Majeur)
+* Maitrise de vole (7; permet de voler; remplace le Vole Majeur)
 
 <br>
 ### L'ordre de la patate cuite (Feu)
@@ -274,18 +275,18 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Barrière de flamme (3)
-* Enflammation magique (2+, Enflamme un objet, coût de maintien 1)
-* Résistance au feu (3, creait une sphère sur une personne qui protège le porteur de toute flamme)
-* Création de magma (4, permet la création d'un petit cratère de magma)
+* Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
+* Enflammation magique (2+; enflamme un objet, coût de maintien 1)
+* Résistance au feu (3; creait une sphère sur une personne qui protège le porteur de toute flamme)
+* Création de magma (4; permet la création d'un petit cratère de magma)
 
 ##### Catégorie B
 
-* Manipulation des flammes (5, Permet de faire bouger les flammes pendant quelques instants)
+* Manipulation des flammes (5; Permet de faire bouger les flammes pendant quelques instants)
 
 ##### Catégorie C
 
-* Phoenix (8, uniquement 1 fois tous les 3 jours, le personnage peut s'enfermer dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon, le personnage retrouve toutes sa vie et mana, l'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins)
+* Phoenix (8; uniquement 1 fois tous les 3 jours, le personnage peut s'enfermer dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon, le personnage retrouve toutes sa vie et mana, l'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins)
 
 <br>
 ### L'ordre de la patate d'eau (Eau)
@@ -298,12 +299,18 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Bouclier de glace (3)
-* Cristallisation (1)
+* Bouclier de glace (3; génère un bouclier de glace sur une partie du corp pendant 3 tours)
+* Cristallisation (1; cristallise de l'eau)
+* Respiration aquatique (3; permet de respirer sous l'eau pendant un long moment)
+* Projection d'eau (2; project de l'eau avec pression)
 
 ##### Catégorie B
 
+* Contrôle de l'eau (5; Permet de faire bouger anormalement de l'eau pendant quelques instants)
+
 ##### Catégorie C
+
+* Mutation aquatique (10; uniquement 1 fois tous les 2 jours, le personnage se transforme en un golem d'eau pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève)
 
 <br>
 ### L'ordre de la pataterie (Obscure)
@@ -317,11 +324,15 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Bouclier d'os (3)
-* Malédiction (Blesse X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
+* Malédiction (Blesse X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
 
 ##### Catégorie B
 
+* Malédiction de zone (Blesse X Vie pour X*4 Mana dépensée, dure X*3 en tour)
+
 ##### Catégorie C
+
+* Imprégnation des ombres (8; uniquement 1 fois par jour, le personnage devient une ombre pendant un bon moment, insensible aux dégâts physiques)
 
 <br>
 ### L'ordre de la pomme de terre (Terre)
@@ -334,9 +345,13 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Bouclier de terre (3)
-* Peau de roche (4)
+* Bouclier de terre (3; génère un bouclier de terre sur une partie du corp pendant 3 tours)
+* Peau de roche (4; la peau du personnage devient aussi dur que de la roche)
 
 ##### Catégorie B
 
+* 
+
 ##### Catégorie C
+
+* 
