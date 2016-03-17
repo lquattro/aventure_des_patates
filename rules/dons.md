@@ -350,8 +350,8 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie B
 
-* 
+* Tremblement de terre (6; fait vibrer et bouger le sol annulant toutes les actions en cours et projectiles)
 
 ##### Catégorie C
 
-* 
+* Mutation de golem (10; uniquement 1 fois tous les 3 jours, le personnage se transforme en un golem de roche pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève)
