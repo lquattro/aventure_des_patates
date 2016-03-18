@@ -86,21 +86,38 @@ L'académie des guerriers a débutée...
 ##### Catégorie A
 
 * Barrage anti-projectile (1)
+<br><i>Permet de bloquer automatiquement un projectile (Possible uniquement une fois par tour).</i>
+
 * Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts)
+<br><i>Effectue une charge puissante contre un ennemi.</i>
+
 * Contre-attaque (1)
-* Frappe forte (1; 1D4 de dégâts)
+<br><i>Permet de tenter une contre attaque (Possible uniquement une fois par tour).</i>
+
+* Frappe forte (1; Dégâts d'arme + 1D4 de dégâts)
+<br><i>Concentre toute la force du personnage dans la frappe d'un adversaire.</i>
+
 * Tourbillon (3)
-* Force d'Hercule (3; permet de porter une surcharge temporairement)
-* Spear (3; placage frontale, tête baissée renversant l'adversaire + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie")
+<br><i>Effectue un tourbillon avec son/ses arme/s (Toutes personnes autour doivent faire un test d'esquive).</i>
+
+* Force d'Hercule (3)
+<br><i>Permet au personnage de porter une charge supérieur pendant un moment.</i>
+
+* Spear (3)
+<br><i>Effectue un placage frontale tête baissée contre un ennemi. Renversement + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie".</i>
 
 ##### Catégorie B
 
-* Cri de terreur (2; fait fuir les proches faibles esprits ennemis et alliés)
-* Charge du Bellier (5; puissante charge renversant les ennemis sur son trajet)
+* Cri de terreur (2)
+<br><i>Effectue un cri qui fait fuir les proches faibles esprits ennemis et alliés.</i>
+
+* Charge du Bellier (5)
+<br><i>Effectue une puissante charge imprégnée de l'esprit du bellier, renversant tout sur son trajet</i>
 
 ##### Catégorie C
 
 * Cri Dovahkin (4; projète les ennemis sur un rayon de 45°c + dégâts de chute)
+<br><i>Effectue un puissant cri de dragon, projetant tout sur un rayon de 45°c à une certaine distance + dégâts de chute 1D4</i> 
 
 <br>
 ### Mage
