@@ -111,12 +111,12 @@ L'académie des guerriers a débutée...
 * Cri de terreur (2)
 <br><i>Effectue un cri qui fait fuir les proches faibles esprits ennemis et alliés.</i>
 
-* Charge du Bellier (5)
+* Charge du Bellier (5, Renversement)
 <br><i>Effectue une puissante charge imprégnée de l'esprit du bellier, renversant tout sur son trajet</i>
 
 ##### Catégorie C
 
-* Cri Dovahkin (4; projète les ennemis sur un rayon de 45°c, + 1D4 dégâts de chute)
+* Cri Dovahkin (4; Projète les ennemis sur un rayon de 45°c, + 1D4 dégâts de chute)
 <br><i>Effectue un puissant cri de dragon, projetant tout dans un rayon.</i> 
 
 <br>
@@ -136,21 +136,36 @@ L'académie des mages a débutée...
 
 ##### Catégorie A
 
-* Boule (1+ / 1D6)
-* Monture élémentaire (4; +2 cast)
-* Méditation (Regen X Mana / X Tour)
-* Pluie élémentaire (5+ / 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2; +2 cast)
-* Rayon (3+ / 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
-* Télépathie (3; +1 cast)
+* Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus)
+<br><i>Génère une boule de feu à partir d'un élément généré. Il est possible de surchargé la boule avec plus de mana</i>
+
+* Monture élémentaire (4; +2 cast, Dur longtemps)
+<br><i>Invoque une monture magique élémentaire.</i>
+
+* Méditation (Regen X Mana par X Tour)
+<br><i>Médite pendant un certain temps pour retrouver de la mana.</i>
+
+* Pluie élémentaire (5+; +2 cast, 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
+<br><i>Génère une pluie élémentaire, provocant des dégâts dans une zone.</i>
+
+* Rayon (3+; 1D6 dégâts + 1D6 par round de maintien - coût de maintien 2)
+<br><i>Génère un rayon magique élémentaire, infligeant des dégâts élémentaires sur toute la surface du rayon.</i>
+
+* Télépathie (3; +1 cast, Dur longtemps)
+<br><i>Installe la télépathie dans les esprits volontaires.</i>
 
 ##### Catégorie B
 
-* Pulsion Arcanique (9, projecte 3 boules arcaniques qui explosent aux contactes; )
-* Enchantement d'objet (12 / Mental % soumis à la gemme spirituel, mais n'exclus pas les bonus de compétences du personnage qui pratique l'enchantement).
+* Pulsion Arcanique (9; 3D10 dégâts, 3 boules, Explosion contact)
+<br><i>Génère des pulsions arcaniques, projectant des sphères qui explosent aux contacts</i>
+
+* Enchantement d'objet (12; Mental % soumis à la gemme spirituel, mais n'exclus pas les bonus de compétences du personnage qui pratique l'enchantement).
+<br><i>Enchantement permanent d'un élément sur un objet.</i>
 
 ##### Catégorie C
 
-* Météor élémentaire (12 / 1D20 dégâts + 5 dégâts)
+* Météor élémentaire (12; 1D20 dégâts + 5 dégâts par météor)
+<br><i>Provoque un boulversement élémentaire dans le ciel, et invoquant une pluie de météor élémentaire.</i>
 
 <br>
 ### Paladin
@@ -168,20 +183,33 @@ Il y a seulement deux ordres magiques qui enseigne cette classe : L'ordre de la 
 
 ##### Catégorie A
 
-* Aile magique (4+ round de maintien - coût de maintien 2)
-* Désenchantement (3; Supprime une malédiction/bénédiction)
+* Aile magique (4+; round de maintien - coût de maintien 1)
+<br><i>Offre temporairement des ailes magiques au paladin.</i>
+
+* Désenchantement (3; Supprime une malédiction/bénédiction/enchantement)
+<br><i>Supprime une malédiction ou bénédiction ou enchantement sur une personne.</i>
+
 * Frappe forte (1; +1D4 de dégâts)
-* Jugement (2; Attaque magique en dégâts élémentaire 1D6 dégâts)
-* Méditation (Regen X Mana / X Tour)
-* Protection magique (4, Protège magiquement sur 1D6 de dégâts)
+<br><i>Inflige un puissant coup à son ennemi.</i>
+
+* Jugement (1; 1D6 dégâts magique + X de dégâts par X Mana en plus)
+<br><i>Invoque sa puissance élémentaire pour infliger son courroux sur son ennemi, avec possibilité de surcharger le coup.</i>
+
+* Méditation (Regen X Mana par X Tour)
+<br><i>Médite pendant un certain temps pour retrouver de la mana.</i>
+
+* Protection magique (3, Protège magiquement sur 1D6 de dégâts)
+<br><i>Invoque une protection magique élémentaire sur une personne.</i>
 
 ##### Catégorie B
 
 * Résurection (8; Soigne une personne dans le coma + Ajoute un effet secondaire aléatoire suivant l'ordre magique du paladin)
+<br><i>Puise dans sa source élémentaire pour soigner une personne dans le coma, lui ajoutant un effet secondaire aléatoire de sa nature élémentaire.</i>
 
 ##### Catégorie C
 
-* Purification de groupe (5+ 3 par membre; Supprime deux malédictions/bénédictions d'un groupe)
+* Purification de groupe (5+; + X de mana par membre; Supprime deux malédictions/bénédictions d'un groupe)
+<br><i>Supprime deux malédictions ou bénédictions ou enchantement par membre d'un groupe.</i>
 
 <br>
 
