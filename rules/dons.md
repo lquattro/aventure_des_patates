@@ -41,11 +41,11 @@ L'académie d'archerie a débutée...
 * Contre-attaque (1)
 <br><i>Permet de tenter une contre attaque (Possible uniquement une fois par tour).</i>
 
-* Dissimulation (4)
+* Dissimulation (4, actif pendant 3 tours, condition de discrétion)
 <br><i>Permet de tenter de se dissimuler des ennemis (Actif pendant 3 tours à compter de l'activation, Suppression de la dissimulation en cas d'action non discrète).</i>
 
-* Oeil du Faucon (2; 35%, + 1 cast)
-<br><i>Permet de rajouter un bonus de 35% aux tests d'action en pourcentages (Actif pendant 3 tours à compter de l'activation).</i>
+* Oeil du Faucon (2; 35%, + 1 cast, actif pendant 3 tours)
+<br><i>Permet de rajouter un bonus aux tests d'action en pourcentages (Actif pendant 3 tours à compter de l'activation).</i>
 
 * Sprint (1)
 <br><i>Permet de faire un sprint (Possible uniquement une fois par tour, PAS de test physique requis).</i>
@@ -103,8 +103,8 @@ L'académie des guerriers a débutée...
 * Force d'Hercule (3)
 <br><i>Permet au personnage de porter une charge supérieur pendant un moment.</i>
 
-* Spear (3)
-<br><i>Effectue un placage frontale tête baissée contre un ennemi. Renversement + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie".</i>
+* Spear (3, Renversement, + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie")
+<br><i>Effectue un placage frontale tête baissée contre un ennemi.</i>
 
 ##### Catégorie B
 
@@ -116,8 +116,8 @@ L'académie des guerriers a débutée...
 
 ##### Catégorie C
 
-* Cri Dovahkin (4; projète les ennemis sur un rayon de 45°c + dégâts de chute)
-<br><i>Effectue un puissant cri de dragon, projetant tout sur un rayon de 45°c à une certaine distance + dégâts de chute 1D4</i> 
+* Cri Dovahkin (4; projète les ennemis sur un rayon de 45°c, + 1D4 dégâts de chute)
+<br><i>Effectue un puissant cri de dragon, projetant tout dans un rayon.</i> 
 
 <br>
 ### Mage
