@@ -23,7 +23,7 @@ Vie | Mana | Mental | Physique | Social
 * Stratège de combat : 10%
 
 ## Dons : 
-* Dissimulation (4)
+* Dissimulation (4, actif pendant 3 tours, condition de discrétion)
 * Sprint (1)
 * Tir Précis (3; 10%; +3 de dégât + 1 cast)
 * Tir Rapide (2; 2 tirs; -20%)

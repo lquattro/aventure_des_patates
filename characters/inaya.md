@@ -36,3 +36,15 @@ Vie | Mana | Mental | Physique | Social
 * Tenue de discrétion
 * Ustensiles médicale
 * Bourse : 10 PO
+
+---
+
+# Level 2
+
+## Stats : + 3 points
+Vie | Mana
+--- | ---
+10 | 8 
+
+## Nouveau dons :
+* Oeil du Faucon (2; 35%, + 1 cast, actif pendant 3 tours)

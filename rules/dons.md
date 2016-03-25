@@ -344,7 +344,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Bouclier de glace (3; génère un bouclier de glace sur une partie du corp pendant 3 tours)
+* Bouclier de glace (3; génère un bouclier de glace sur une partie du corps pendant 3 tours)
 * Cristallisation (1; cristallise de l'eau)
 * Respiration aquatique (3; permet de respirer sous l'eau pendant un long moment)
 * Projection d'eau (2; project de l'eau avec pression)

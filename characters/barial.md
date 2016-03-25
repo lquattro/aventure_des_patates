@@ -26,9 +26,9 @@ Vie | Mana | Mental | Physique | Social
 
 ## Dons : 
 * Création (Génère de l'élément; 1)
-* Méditation (Regen X Mana / X Tour)
+* Méditation (Regen X Mana par X Tour)
 * Télépathie (3; +1 cast)
-* Barrière de flamme (3)
+* Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
 
 ## Inventaires :
 * Dague Ensorcelé (D6; +Bonus vitesse, +1 dégâts des sorts; Ambidextre : +Bonus)
