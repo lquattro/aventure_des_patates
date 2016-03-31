@@ -70,7 +70,7 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 
 ### Berserker
 * Actif en permanence.
-* Double en permanence les dégâts physiques.
+* Double les dégâts physiques.
 * Tout échec critique rend le personnage berserk et devient incontrôlable; passage immédiat.
 * <b>En berserk : </b>Passe automatiquement en posture offensif.
 * <b>En berserk : </b>Sa vie est à 150% (Arrondi au supèrieur) au passage berserker.

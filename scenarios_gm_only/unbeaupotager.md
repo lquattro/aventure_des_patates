@@ -43,7 +43,7 @@ La forêt qui sépare Stolons d'Hamel est assez grande, avec une grande densité
 
 * Cette forêt est particulière, car deux meutes de loup se battent pour le territoire.
 
-* Dalim l'ogre des forêts gardent le pont, et laisse uniquement pour des pièces d'or ou leurs nourritures *La nourriture étant le plus important*.
+* Dalim l'ogre des forêts gardent le pont, et laisse uniquement pour des pièces d'or ou leurs nourritures <b><i>(La nourriture étant le plus important)</b></i>.
 
 * Grenda se trouve dans la fôret blessé et malade sous sa forme originel : sa chevelure est composé d'une coupe avec deux couettes de feuille de poireau, un teint verdatre blanc proche de certain orc et avec une tenue de camouflage.
 
