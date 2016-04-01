@@ -10,6 +10,7 @@ Catégorie accessible dès le niveau 1.
 * Armes de tir : 10%
 * Artisanat : 15%
 * Avare : 15%
+* Baratin : 10% <b><i>New</i></b>
 * Berserker : double les dégâts physiques (Possibilité d'être incontrôlable)
 * Bouclier : 15%
 * Bourrin : 25% dégâts (Possibilité de casser ses armes)
@@ -30,9 +31,11 @@ Catégorie accessible dès le niveau 1.
 * Inquisiteur : 15%
 * Lames : 10%
 * Lance : 20%
+* Marchand : 15% <b><i>New</i></b>
 * Marteau : 20%
 * Maître d'arme : 5%
 * Nationaliste : 20%
+* Observateur : 10% <b><i>New</i></b>
 * Peau dur : 10%
 * Proche de son élément : 15%
 * Proche des humains : 20%
@@ -48,7 +51,7 @@ Catégorie accessible dès le niveau 1.
 
 Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
 
-<!-- Work in progress -->
+* Diplomate : 15%
 * Charmeur : 15%
 * Chef d'équipe : 5% (Aura qui imprègne l'équipe)
 * Défenseur de l'équipe : 15% (Bonus actif uniquement quand le défenseur défend volontairement un membre de l'équipe, bonus cumulable : Bouclier contre une attaque physique ou Esprit résistant contre une attaque mental)
@@ -60,7 +63,6 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 
 Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
 
-<!-- Work in progress -->
 * Expert Bouclier : 25% (Remplace Maitre Bouclier, PréRequis la compétence remplacée)
 * ViComte : 20% (Remplace Noble, PréRequis la compétence remplacée)
 * Leader né : 10% (Aura qui imprègne l'équipe, Remplace Chef d'équipe, PréRequis la compétence remplacée)
