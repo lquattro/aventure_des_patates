@@ -20,7 +20,7 @@ Vie | Mana | Mental | Physique | Social
 * Ami des bêtes : 20%
 * Arc : 20%
 * Chasseur né : 10%
-* Stratège de combat : 10%
+* Observateur : 10%
 
 ## Dons : 
 * Dissimulation (4, actif pendant 3 tours, condition de discrétion)

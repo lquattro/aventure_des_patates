@@ -10,7 +10,7 @@ Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-10 | 5 | 35% | 80% | 55%	
+10 | 5 | 40% | 75% | 55%	
 
 ## Langues parlées
 * Commun
@@ -21,7 +21,7 @@ Vie | Mana | Mental | Physique | Social
 * Forgeron : 15%
 * Lames : 10%
 * Maître d'arme : 5%
-* Peau dur : 10%
+* Baratin : 15%
 
 ## Dons : 
 * Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts)

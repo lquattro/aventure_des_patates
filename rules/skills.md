@@ -10,7 +10,7 @@ Catégorie accessible dès le niveau 1.
 * Armes de tir : 10%
 * Artisanat : 15%
 * Avare : 15%
-* Baratin : 10% <b><i>New</i></b>
+* Baratin : 15% <b><i>New</i></b>
 * Berserker : double les dégâts physiques (Possibilité d'être incontrôlable)
 * Bouclier : 15%
 * Bourrin : 25% dégâts (Possibilité de casser ses armes)
@@ -18,8 +18,10 @@ Catégorie accessible dès le niveau 1.
 * Chasseur né : 10%
 * Chimiste : 15%
 * Citadin : 10%
+* Chercheur Scientifique : 10% <b><i>New</i></b>
 * Concentration : 5%
 * Cuisinier : 15%
+* Débrouillard : 15% <b><i>New</i></b>
 * Divination : 10%
 * Démoniaque : double les dégâts magiques (Possibilité de se transformer en démon)
 * Epée : 20%
@@ -28,7 +30,6 @@ Catégorie accessible dès le niveau 1.
 * Forgeron : 15%
 * Guerrier né : 15%
 * Ingénieur : 15%
-* Inquisiteur : 15%
 * Lames : 10%
 * Lance : 20%
 * Marchand : 15% <b><i>New</i></b>

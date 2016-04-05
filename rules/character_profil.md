@@ -16,8 +16,8 @@ Une fiche personnage comprend obligatoirement les statistiques, une posture favo
 ## Posture
 
 * Offensif : Max dégats
-* Defensif : Bonus de défense, parade ou esquive
-* Focus : Bonus de précision, 
+* Defensif : Possibilité de défendre, parade ou esquive
+* Focus : Bonus de précision de 5%, et chaque sort coute 1 de mana de moins. 
 
 ## Dons
 <!--TODO Description Dons -->

@@ -10,7 +10,7 @@ Homme patate | Mage | L'ordre de la patate cuite (Feu) | Offensif : Max dégats
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-9 | 6 | 80% | 40% | 50%	
+9 | 6 | 75% | 45% | 50%	
 
 ## Langues parlées
 * Commun
@@ -19,15 +19,15 @@ Vie | Mana | Mental | Physique | Social
 * Elémentaire
 
 ## Compétences :
-* Ami des bêtes : 20%
-* Chimiste : 15%
+* Chercheur Scientifique : 10%
+* Concentration : 5%
 * Démoniaque : double les dégats magiques (Possibilité de se transformer en démon)
 * Erudition : 15%
 
 ## Dons : 
+* Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus) 
 * Création (Génère de l'élément; 1)
 * Méditation (Regen X Mana par X Tour)
-* Télépathie (3; +1 cast)
 * Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
 
 ## Inventaires :
