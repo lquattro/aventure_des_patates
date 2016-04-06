@@ -90,39 +90,47 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 
 <!-- Amplification de la pousse des plantes -->
 * Inconnu A2
-<br><i> Dons inconnu qui semblerais faire pousser des plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait faire pousser des plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Guérison des plaies -->
 * Inconnu A3
-<br><i> Dons inconnu qui semblerais soigner des blessures. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait soigner des blessures. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Contrôle des plantes -->
 * Inconnu A4
-<br><i> Dons inconnu qui semblerais avoir le contrôle sur les plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait avoir le contrôle sur les plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Apaisement -->
 * Inconnu A5
-<br><i> Dons inconnu qui semblerais apaiser toute vie. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait apaiser toute vie. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Invocation Serpent de ronce -->
 * Inconnu A6
-<br><i> Dons inconnu qui semblerais invoquer des créatures à base de plante. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait invoquer des créatures à base de plante. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 ##### Catégorie B
 
 <!-- Invocation Treant -->
 * Inconnu B1
-<br><i> Dons inconnu qui semblerais donner vie à un arbre. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait donner vie à un arbre. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 <!-- Chant de la licorne -->
 * Inconnu B2
-<br><i> Dons inconnu qui semblerais faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+
+<!-- Méthamorphe Animal -->
+* Inconnu B3
+<br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 ##### Catégorie C
 
 <!-- Appel des fées -->
 * Inconnu C1
-<br><i> Dons inconnu qui semblerais faire apparaitre des fées. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui semblerait faire apparaitre des fées. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+
+<!-- Méthamorphe Végétal -->
+* Inconnu C2
+<br><i> Dons inconnu qui permettrait au druide de se transformer en Treant. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 <br>
 ### Guerrier
