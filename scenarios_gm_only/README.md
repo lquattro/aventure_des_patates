@@ -24,13 +24,13 @@ entre 1h-3h | bon | Peu | Beaucoup | Peu
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
-entre 1h30-6h | dur | Beaucoup | Normal | Normal
+entre 1h30-8h | dur | Beaucoup | Normal | Normal
 
 * [La guilde du savoir](laguildedusavoir.md)
 
 Temps de jeu | Première partie ? | Intrigue | Combat | Histoire
 --- | --- | --- | --- | ---
-~ 8h | dur | Beaucoup | Normal | Beaucoup
+> 8h | dur | Beaucoup | Beaucoup | Beaucoup
 
 ---
 
