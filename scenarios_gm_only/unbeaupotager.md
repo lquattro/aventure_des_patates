@@ -59,17 +59,24 @@ Le forgeron est ouvert avec peu de marchandise.
 
 ### La ville portuaire d'Hamel
 
-La ville humaine d'Hamel est un grand regroupement racial. C'est un lieu propisse au commerce. On vend de tout, et tout à un prix.
+La ville humaine d'Hamel est un grand regroupement racial. C'est un lieu propice au commerce. On vend de tout, et tout à un prix.
+Malgré tout c'est une ville humaine et il est dangereux de circuler sans tenue discrête.
 Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être pas facile de trouver les bâteaux d'Irgen l'apothicaire.
 
 * Les gardes ont un registre des bâteaux enregistrés au port, ils sont pas insensible à l'argent : des informations sur la localisation d'Irgan.
 
 * Au centre de la ville, un couple de la guilde du savoir discute de leurs recherches sur l'existance d'un bracelet magique.
 
+* Il y a une dame dans la ville qui se promène en chantant la chanson de barde. Celle-ci connait la localisation de la provenance de cette musique : La tarverne du Lion.
+
+* Un forgeron "Marcel" se trouve dans la ville, et il vend toutes sortes d'armes et armures. Le MJ peut faire un test sur les objets afin de déterminer si certain possède des bonus.
+
+* De nombreuses patrouilles circulent dans la ville portuaire, et ils peuvent demander leurs identitées si ils sont trop prêt d'eux. Ces soldats peuvent s'acheter facilement avec de beaucoup d'or.
+
 ## La fin de la mission
 
 * Si le village de Stolons est sauvé, le leader du village récompensera les aventuriers. (Bonus++ considération)
-* Si le village de Stolons est pillé (Malus- considération)
+* Si le village de Stolons est pillé (Malus- considération).
 * D'autre fin de mission sont possibles suivant les actions des joueurs (au choix du MJ).
 
 ## Annexes
@@ -88,6 +95,7 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 Garde de la ville 1 (Guerrier) | 25hp / 6mp | 40/75/55 | D10 | Epée, Armure de plaque (4), 6PO | Charge puissante, contre-attaque
 Garde de la ville 2 (Archer) | 20hp / 8mp | 55/75/40 | D8 | Arc à poulie, Armure de cuir (2), 6PO | Oeil de faucon
+Garde de la ville 3 (Cavalier) | 30hp / 4mp | 55/75/40 | D10 | Epée, Armure de plaque (5), 6PO | Charge puissante, contre-attaque
 
 **Les pirates**
 
