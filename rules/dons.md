@@ -68,13 +68,14 @@ L'académie d'archerie a débutée...
 <br><i> Permet de faire un tir puissant imprégné de l'aigle, qui projecte l'ennemi en arrière.</i>
 
 <br>
-### Druide <b><i>New</i></b>
+### Druide
+<br><b><i>New</i></b>
 
 #### Description
 
-La classe druide est une classe non autorisé par le pouvoir patate. Son unique élément étant la nature est pour le pouvoir trop proche de la création des pousses de plante patate, ceci faisant obstacle à l'histoire des patates.
-Les aspirants druides sont automatiquement recadrés à leurs enfances vers des autres éléments et autres classes. L'élément de la nature n'a donc jamais pu s'affirmer en tant qu'église. De nombreux élément reste en soit sensible à l'appel de la nature, sans vraiment la comprendre ou la pratiquer. Les aspirants à devenir druide sont principalements des archers avec un mental hors du commun et dévelopant énormement d'ampathie envers les animaux et plantes, mais aussi des mages chimiste ou herboriste proche des animaux et de la nature.
-<b>Cette classe est uniquement accessible en autodidacte et grâce à l'expérience sur l'élément de la nature.</b>
+La classe druide est une classe non autorisée par le pouvoir patate. Son unique élément étant la nature est pour le pouvoir trop proche de la création des pousses de plante patate : ceci faisant obstacle à l'histoire des patates.
+Les aspirants druides sont automatiquement recadrés dès leurs enfances vers des autres ordres et autres classes. L'élément de la nature n'a donc jamais pu s'affirmer en tant qu'église. De nombreuse personne reste en soit sensible à l'appel de la nature, sans vraiment la comprendre ou la pratiquer. Les aspirants à devenir druide sont principalement des archers avec un mental hors du commun et développant énormement d'empathie envers les animaux et plantes, mais aussi des mages chimiste ou herboriste liés aux animaux et à la nature.
+<b>Cette classe est uniquement accessible en autodidacte.</b>
 
 #### Histoire
 
