@@ -69,7 +69,6 @@ L'académie d'archerie a débutée...
 
 <br>
 ### Druide
-<br><b><i>New</i></b>
 
 #### Description
 
