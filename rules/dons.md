@@ -7,6 +7,7 @@
 
 - [Classe](#classe)
    - [Archer](#archer)
+   - [Druide](#druide) <b><i>New</i></b>
    - [Guerrier](#guerrier)
    - [Mage](#mage)
    - [Paladin](#paladin)
@@ -65,6 +66,63 @@ L'académie d'archerie a débutée...
 
 * Tir de l'aigle (6; +1D8 de dégâts; Projection de l'ennemi)
 <br><i> Permet de faire un tir puissant imprégné de l'aigle, qui projecte l'ennemi en arrière.</i>
+
+<br>
+### Druide <b><i>New</i></b>
+
+#### Description
+
+La classe druide est une classe non autorisé par le pouvoir patate. Son unique élément étant la nature est pour le pouvoir trop proche de la création des pousses de plante patate, ceci faisant obstacle à l'histoire des patates.
+Les aspirants druides sont automatiquement recadrés à leurs enfances vers des autres éléments et autres classes. L'élément de la nature n'a donc jamais pu s'affirmer en tant qu'église. De nombreux élément reste en soit sensible à l'appel de la nature, sans vraiment la comprendre ou la pratiquer. Les aspirants à devenir druide sont principalements des archers avec un mental hors du commun et dévelopant énormement d'ampathie envers les animaux et plantes, mais aussi des mages chimiste ou herboriste proche des animaux et de la nature.
+<b>Cette classe est uniquement accessible en autodidacte et grâce à l'expérience sur l'élément de la nature.</b>
+
+#### Histoire
+
+<!-- Story Druide -->
+Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes urbaines.
+
+#### Dons
+
+##### Catégorie A
+
+* Télépathie empathique avec les animaux et plantes (3; 1 tour de cast)
+<br><i> Dons exceptionnel qui permet au druide de comprendre et parler aux plantes et aux animaux.</i>
+
+<!-- Amplification de la pousse des plantes -->
+* Inconnu A2
+<br><i> Dons inconnu qui semblerais faire pousser des plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+
+<!-- Guérison des plaies -->
+* Inconnu A3
+<br><i> Dons inconnu qui semblerais soigner des blessures. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+
+<!-- Contrôle des plantes -->
+* Inconnu A4
+<br><i> Dons inconnu qui semblerais avoir le contrôle sur les plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+
+<!-- Apaisement -->
+* Inconnu A5
+<br><i> Dons inconnu qui semblerais apaiser toute vie. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+
+<!-- Invocation Serpent de ronce -->
+* Inconnu A6
+<br><i> Dons inconnu qui semblerais invoquer des créatures à base de plante. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+
+##### Catégorie B
+
+<!-- Invocation Treant -->
+* Inconnu B1
+<br><i> Dons inconnu qui semblerais donner vie à un arbre. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+
+<!-- Chant de la licorne -->
+* Inconnu B2
+<br><i> Dons inconnu qui semblerais faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+
+##### Catégorie C
+
+<!-- Appel des fées -->
+* Inconnu C1
+<br><i> Dons inconnu qui semblerais faire apparaitre des fées. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 <br>
 ### Guerrier
