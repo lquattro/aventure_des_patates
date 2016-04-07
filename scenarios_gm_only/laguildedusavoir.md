@@ -18,11 +18,11 @@ Les hommes de la guilde du savoir sont en train d'espionner la population d'Hame
 * Si les aventuriers ne sont pas en possession du bracelet de polymorphie dans Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte le même écusson. (Déroulement 1)
 ![Ecusson](../icons/ecusson-guilde-savoir.png)
 
-* Si les aventuriers sont en possession du bracelet de polymorphie dans Hamel, ils peuvent apercevoir un groupe de la guilde du savoir les suivre. (Déroulement 1)
+* Si les aventuriers sont en possession du bracelet de polymorphie dans Hamel, ils peuvent apercevoir un groupe de la guilde du savoir les suivre (Déroulement 1), si les aventuriers ne les remarquent pas alors ils se feront attaquer plus tard en sortant de Hamel (Déroulement 4).
 
 * Si les aventuriers sont dans la taverne de la bonne purée le soir, il y a une ambiance assez malsaine qui met en éveille la méfiance des aventuriers, les poussant à chercher des indices dans la taverne. (Déroulement 2)
 
-* Si les aventuriers sont dans une ville autre que Hamel, ils voyent Ernest un demi-elfe, qui les suit. Ce demi-elfe est un aspirant à la guilde du savoir, et sa mission principale est d'espionner les groupes d'aventuriers afin de retrouver le bracelet de polymorphie. Il n'est pas aggressif, ni méchant, mais il est avide de pouvoir et n'hésite pas à se mettre au service d'autrui pour apprendre leurs connaissances. Il donnera facilement des informations sur la guilde du savoir et sur le bracelet, si cela peut lui permettre de l'avoir. (Déroulement 3)
+* Si les aventuriers sont dans une ville autre que Hamel, ils voyent Ernest un demi-elfe, qui les suit(Déroulement 3).
 
 
 ### Déroulement 1
@@ -41,7 +41,43 @@ Il faut savoir qu'avant même l'idée de négociations, ils avaient déjà pris 
 
 ### Déroulement 2
 
+Le soir, dans la taverne de la bonne purée un groupe étrange s'isole dans une pièce de réunion. Deux gardes avec l'insigne de la guilde du savoir garde la porte. A l'intérieur, chaque participant donne les informations récoltées de la journée.
+
+* Si les aventuriers décident d'écouter ou intérompre par la force la réunion, il y a un risque qu'il se fasse démasquer par les deux gardes et de déclancher une bagarre ainsi qu'une chasse à la patate dans la ville d'Hamel. Les patates étant très mal vue dans les villes humaines, il y a de forte chance que cela se finisse mal.
+
+* Si les aventuriers décident d'intérompre la réunion par la parôle, il y a une possibilité (après jet de dés du MJ) pour que le groupe soit recruté pour retrouver le bracelet. Et si le groupe possède le bracelet alors des négociations peuvent se faire.
+
+* Si les aventuriers passent leurs chemins sans possession du bracelet, ils verront Ernest les suivres (Déroulement 3).
+
+* Si les aventuriers passent leurs chemins alors qu'ils sont en possession du bracelet : plus tard dans la ville d'Hamel ils peuvent voir un groupe de la guilde du savoir les suivres (Déroulement 1) ou/et se faire attaquer en sortie de ville (Déroulement 4).
+
 ### Déroulement 3
+
+Ernest est un demi-elfe, un aspirant à la guilde du savoir qui a pour mission principale d'espionner les groupes d'aventuriers afin de retrouver le bracelet de polymorphie. Il n'est pas aggressif, ni méchant, mais il est avide de pouvoir et n'hésitera pas à se mettre au service d'autrui pour apprendre leurs connaissances. Il donnera facilement des informations sur la guilde du savoir et sur le bracelet, si cela peut lui permettre de l'avoir.
+
+* Si les aventuriers ne possèdent pas le bracelet et décident de le tuer, ils auront aucune information et cela aménera automatiquement à ce que la guilde du savoir trouve le bracelet. Si ils possèdent le bracelet, alors dans un jour le groupe subira une attaque de la guilde du savoir.
+
+* Si les aventuriers parle avec Ernest, ils verront en lieu un allier (Avec une réussite critique, les aventuriers peuvent comprendre qu'il cache quelques choses). Ernest donnera toutes les informations sur le bracelet et sur ce qui sait de la guilde du savoir.
+
+Ce que sait Ernest :
+
+* Il connait la puissance du bracelet de polymorphie, mais il a aucune connaissance des projets de la guilde.
+
+* Il ne connait pas les chefs de la guilde du savoir.
+
+* Il sait que la dernière personne à avoir possession du bracelet est Irgen. Et ceci, il l'a caché à ces maitres.
+
+* Information caché : Ernest désir le bracelet pour devenir normal. Les demi-humains sont très mal vue dans ce monde. Ils sont crains de leur longue vie et rejeté par les autres races pour différentes raisons.
+
+* Il sait où se trouve le Palais fortifié Ahlkeim.
+
+### Déroulement 4
+
+En sortant de la ville d'Hamel, rapidement le groupe subira une première attaque. Un groupe de mercenaire a la sorbe de la guilde du savoir. 
+
+* Si les aventuriers gagnent, alors un des mercenaires révèleras que c'est la guilde du savoir qui a commendité et que d'autres groupes sont en route, et qu'il n'arreterons pas les attaques tant que les aventuriers seront en la posession du bracelet.
+
+* Si les aventuriers perdent tous, alors ils serront capturés et envoyés au Palais fortifié Ahlkeim.
 
 ## Les lieux
 
