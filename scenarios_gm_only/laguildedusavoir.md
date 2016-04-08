@@ -84,7 +84,22 @@ En sortant de la ville d'Hamel, rapidement le groupe subira une première attaqu
 ### La montagne de Boaffroi
 ### Palais fortifié Ahlkeim
 ### Forêt Verdatre
+
+La forêt Verdatre est réputé pour acceuillir une grande flore marécageuse. 
+Elle est aussi connu pour être l'unique chemin pour la montagne de Boaffroi.
+Il paraitrait que seule les membres de la guilde du savoir peuvent traverser cette forêt.
+
 ### Forêt des toufus
+
+La forêt qui sépare Stolons d'Hamel est assez grande, avec une grande densitée d'arbre. Il y a des points d'eau, des sources et rivières, ainsi que beaucoup de bandit. Passer par la forêt est assez risqué, mais fait gagner de précieuse heure de marche par rapport à la route qui longe la plage.
+
+* Si les aventuriers sont déjà passés, adapté le scénario pour ne pas avoir des incohérences avec d'autres missions. Les bandits sont dans tous les cas toujours sur les lieux, c'est juste que ce sont d'autres et situé à des endroits différents dans la forêt.
+
+* Des légendes urbaines racontent, que des elfes sylvains vivraient dans cette forêt, mais aucun adulte n'a pu confirmer.
+
+* Cette forêt est particulière, car deux meutes de loup se battent pour le territoire.
+
+* Dalim l'ogre des forêts gardent le pont, et laisse uniquement pour des pièces d'or ou leurs nourritures <b><i>(La nourriture étant le plus important)</b></i>.
 
 ## La fin de la mission
 
@@ -108,3 +123,27 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 Garde de la ville 1 (Guerrier) | 25hp / 6mp | 40/75/55 | D10 | Epée, Armure de plaque (4), 6PO | Charge puissante, contre-attaque
 Garde de la ville 2 (Archer) | 20hp / 8mp | 55/75/40 | D8 | Arc à poulie, Armure de cuir (2), 6PO | Oeil de faucon
 Garde de la ville 3 (Cavalier) | 30hp / 4mp | 55/75/40 | D10 | Epée, Armure de plaque (5), 6PO | Charge puissante, contre-attaque
+
+**La forêt des toufus**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Loup | 20hp / 2mp | 40/50/45 | D6 | Peau de bête | Null
+Loup Alpha | 30hp / 2mp | 60/70/40 | Peau de bête | Null
+Ogre des forêts "Dalim" | 60hp / 8mp | 40/75/30 | D12 | Massue, Epée courte, Pagne, 2PO | Null
+Bandit 1 (Archer) | 20hp / 4mp | 40/60/50 | D4, D6 | Dague rouillé, Arc,  4PO | Sprint(1)
+Bandit 2 (Guerrier) | 30hp / 2mp | 50/60/60 | D12 | Epée longue à 2 mains, 4PO | Contre-attaque (1)
+Elfe Sylvain 1 (Archer) | 20hp / 4mp | 40/70/50 | D8, D8 +1  | Arc elfique, Epée courte Elfique, Armure de cuir (2), 5PO | Sprint(1), Contre-attaque (1)
+Arlendil (Archer) | 50hp / 8mp | 60/60/50 | D8, D8 +1 | Arc elfique, Epée courte Elfique, Armure de plaque (5), 15PO | Sprint(1), Contre-attaque (1), Tir Précis (3; 10%; +3 de dégât + 1 cast)
+
+**La forêt Verdatre**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Guerrier Mort-vivant | 20hp / 0mp | 40/65/40 | D6 | Epée et bouclier (1) | Null
+Lancier Mort-vivant | 20hp / 0mp | 40/65/40 | D8 | Lance | Null
+Archer Mort-vivant | 14hp / 0mp | 40/65/40 | D6 | Arc | Null
+Soldat Mort-vivant | 20hp / 0mp | 40/65/40 | D10 | Epée longue, Armure de plaque (4) | Null
+Mage Mort-vivant | 14hp / 10mp | 65/40/40 | D4 | Dague | Boule, Rayon
+Crocodile Mort-vivant | 40hp/ 0mp | 40/70/40 | D8 | Dent | Null
+Ours Mort-vivant | 35hp/ 0mp | 40/70/40 | D8 | Griffe | Null
