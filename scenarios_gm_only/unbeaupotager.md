@@ -63,6 +63,11 @@ La ville humaine d'Hamel est un grand regroupement racial. C'est un lieu propice
 Malgré tout c'est une ville humaine et il est dangereux de circuler sans tenue discrête.
 Son port est assez grand, il y a toutes sortes de bâteau, et il sera peut-être pas facile de trouver les bâteaux d'Irgen l'apothicaire.
 
+Les aventuriers peuvent se reposer dans plusieurs auberge et taverne, voici leurs particularités : 
+<br>L'auberge Bella est une auberge tenue par une humaine. Elle est peu soucieuse de qui dort chez elle du moment que le pourboire est de mise. Des membres de la guilde du savoir sont dans cette maison (Possibilité de démarrer en parallèle le scénario : [La guilde du savoir](laguildedusavoir.md)). 
+<br>L'auberge du lion est une auberge tenue par des orcs. Toute race peut venir boire de l'hydromel d'orc. Ces heures d'ouvertures sont particulières, car la journée ils dorment et sont ouverts que la nuit.
+<br>La taverne de la bonne purée est une taverne et auberge, avec compartiment privée. Un groupe voir [La guilde du savoir](laguildedusavoir.md) qui a réservé la plus grande pièce, ce qui est regréttable pour les aventuriers. Deplus deux gardes du groupe sont en permanence devant la porte. 
+
 * Les gardes ont un registre des bâteaux enregistrés au port, ils sont pas insensible à l'argent : des informations sur la localisation d'Irgan.
 
 * Au centre de la ville, un couple de la guilde du savoir discute de leurs recherches sur l'existance d'un bracelet magique.
