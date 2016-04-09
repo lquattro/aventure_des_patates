@@ -167,6 +167,8 @@ Ours Mort-vivant | 35hp/ 0mp | 40/70/40 | D8 | Griffe | Null
 
 **La montagne de Boaffroi**
 
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 Groupe Aventurier: Elma (Elfe Archère) | 15hp / 8mp | 45/65/60 | D6, D6 | Dague, Arc, 24PO, Armure de cuir (2) | Contre-attaque (1), Sprint(1), Tir Rapide (2; 2 tirs; -20%)
 Groupe Aventurier: Gurk (Nain Guerrier) | 22hp / 2mp | 50/70/50 | D10 | Epée x2, 25PO, Armure de maille (3) | Contre-attaque (1), Barrage anti-projectile (1), Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts)
 Groupe Aventurier: Pitt (Homme-patate Mage Feu) | 14hp / 10mp | 70/40/60 | D6 | Dague, Livre de sort -1 Cast, 24PO | Boule (1), Méditation (Regen X Mana par X Tour), Monture élémentaire (4; +2 cast, Dur longtemps)
