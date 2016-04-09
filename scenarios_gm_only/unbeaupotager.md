@@ -116,7 +116,7 @@ Irgen (Archer) | 45hp / 8mp | 50/70/50 | D4 +3, D8 | Pistolet à percussion x2, 
 Name | HP/MP | Percentage | Dices | Equipment | Spell
 :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 Loup | 20hp / 2mp | 40/50/45 | D6 | Peau de bête | Null
-Loup Alpha | 30hp / 2mp | 60/70/40 | Peau de bête | Null
+Loup Alpha | 30hp / 2mp | 60/70/40 | D8 | Peau de bête | Null
 Ogre des forêts "Dalim" | 60hp / 8mp | 40/75/30 | D12 | Massue, Epée courte, Pagne, 2PO | Null
 Bandit 1 (Archer) | 20hp / 4mp | 40/60/50 | D4, D6 | Dague rouillé, Arc,  4PO | Sprint(1)
 Bandit 2 (Guerrier) | 30hp / 2mp | 50/60/60 | D12 | Epée longue à 2 mains, 4PO | Contre-attaque (1)
