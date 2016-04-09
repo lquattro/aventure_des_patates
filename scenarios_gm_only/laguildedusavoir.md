@@ -11,18 +11,17 @@ Ce chef et initiateur de se projet est le grand sage Hilidmer.
 Il a prévu de modifier l'enchantement de ce bracelet, afin de lui permettre de se transformer en n'importe quelle race. Ce qui favoriserais les dialogues après transformation et cela permettrait d'unifier les peuples sous sa bannière.
 Pour la modification de l'enchantement, il a besoin en premier lieu du bracelet de polymorphie, d'une gemme spirituel de chaque race et d'un parchemin : Le parchemin du kaloum d'ogres.
 Ils savent qu'un homme poireau en est/était détenteur, et qu'il se dirigeait vers la cité de Stolons en passant par Hamel.
-Les hommes de la guilde du savoir sont en train d'espionner la population d'Hamel et se réunissent tous les soirs à la taverne de la bonne purée dans une pièce privée, afin de partager leurs informations journalières sur le bracelet.
+Les hommes de la guilde du savoir sont en train d'espionner la population d'Hamel et se réunissent tous les soirs à l'auberge de la bonne purée dans une pièce privée, afin de partager leurs informations journalières sur le bracelet.
 
 * Bonus > Groupe d'aventurier rival : un groupe se trouve dans la montagne de Boaffroi et cherche le bracelet pour Pitt un de leurs membres. Ils sont dans le scénario impossible à tué, car ils prendront rapidement la fuite en cas d'échec. C'est un groupe sournois, qui prépare toujours le terrain, afin de mettre des pièges et un plan de secours.
 
 ## Récupérer la mission
 
-* Si les aventuriers ne sont pas en possession du bracelet de polymorphie dans Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte le même écusson. (Déroulement 1)
-![Ecusson](../icons/ecusson-guilde-savoir.png)
+Test Bonus : Les aventuriers sont dans la ville Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte des tenues de discrétion avec un écusson très dissimulé. ![Ecusson](../icons/ecusson-guilde-savoir.png)
 
 * Si les aventuriers sont en possession du bracelet de polymorphie dans Hamel, ils peuvent apercevoir un groupe de la guilde du savoir les suivre (Déroulement 1), si les aventuriers ne les remarquent pas alors ils se feront attaquer plus tard en sortant de Hamel (Déroulement 4).
 
-* Si les aventuriers sont dans la taverne de la bonne purée le soir, il y a une ambiance assez malsaine qui met en éveille la méfiance des aventuriers, les poussant à chercher des indices dans la taverne. (Déroulement 2)
+* Si les aventuriers sont dans l'auberge de la bonne purée le soir, il y a une ambiance assez malsaine qui met en éveille la méfiance des aventuriers, les poussant à chercher des indices dans la taverne. (Déroulement 2)
 
 * Si les aventuriers sont dans une ville autre que Hamel, ils voyent Ernest un demi-elfe, qui les suit(Déroulement 3).
 
@@ -43,7 +42,7 @@ Il faut savoir qu'avant même l'idée de négociations, ils avaient déjà pris 
 
 ### Déroulement 2
 
-Le soir, dans la taverne de la bonne purée un groupe étrange s'isole dans une pièce de réunion. Deux gardes avec l'insigne de la guilde du savoir garde la porte. A l'intérieur, chaque participant donne les informations récoltées de la journée.
+Le soir, dans l'auberge de la bonne purée un groupe étrange s'isole dans une pièce de réunion. Deux gardes avec l'insigne de la guilde du savoir garde la porte. A l'intérieur, chaque participant donne les informations récoltées de la journée.
 
 * Si les aventuriers décident d'écouter ou intérompre par la force la réunion, il y a un risque qu'il se fasse démasquer par les deux gardes et de déclancher une bagarre ainsi qu'une chasse à la patate dans la ville d'Hamel. Les patates étant très mal vue dans les villes humaines, il y a de forte chance que cela se finisse mal.
 
@@ -140,6 +139,21 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 Garde de la ville 1 (Guerrier) | 25hp / 6mp | 40/75/55 | D10 | Epée, Armure de plaque (4), 6PO | Charge puissante, contre-attaque
 Garde de la ville 2 (Archer) | 20hp / 8mp | 55/75/40 | D8 | Arc à poulie, Armure de cuir (2), 6PO | Oeil de faucon
 Garde de la ville 3 (Cavalier) | 30hp / 4mp | 55/75/40 | D10 | Epée, Armure de plaque (5), 6PO | Charge puissante, contre-attaque
+
+**L'auberge de la bonne purée**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Veilleur | 14hp / 4mp | 50/50/70 | D4 | Dague, Tenue de discrétion, 30PO | Null
+Soldat Guerrier | 28hp / 4mp | 50/70/50 | D12 | Epée à 2 mains, Armure de plaque (5), 5PO | Barrage anti-projectile (1)
+
+**La guilde du savoir**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Veilleur | 14hp / 4mp | 50/50/70 | D4 | Dague, Tenue de discrétion, 30PO | Null
+Soldat Guerrier | 28hp / 4mp | 50/70/50 | D12 | Epée à 2 mains, Armure de plaque (5), 5PO | Barrage anti-projectile (1)
+Soldat Archer | 24hp / 6mp | 50/70/50 | 2D4, D6 | Arbalete (2D4; Ambidextre : +1 tour de recharge), Armure de plaque (5), Dague, 5PO | Sprint (1)
 
 **La forêt des toufus**
 
