@@ -17,7 +17,7 @@ Les hommes de la guilde du savoir sont en train d'espionner la population d'Hame
 
 ## Récupérer la mission
 
-Test Bonus : Les aventuriers sont dans la ville Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte des tenues de discrétion avec un écusson très dissimulé. ![Ecusson](../icons/ecusson-guilde-savoir.png)
+* Si Les aventuriers sont dans la ville Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte des tenues de discrétion avec un écusson très dissimulé. ![Ecusson](../icons/ecusson-guilde-savoir.png) Si c'est une reussite ou un échec, les aventuriers remarques juste un grand nombre de personne en tenue de discrétion. En cas d'échèc critique, un des veilleurs de la guilde du savoir va soit voler le bracelet (si les aventuriers l'ont), soit alerter la population de la présence de patate et obliger les aventuriers à fuire la ville ou se cacher.
 
 * Si les aventuriers sont en possession du bracelet de polymorphie dans Hamel, ils peuvent apercevoir un groupe de la guilde du savoir les suivre (Déroulement 1), si les aventuriers ne les remarquent pas alors ils se feront attaquer plus tard en sortant de Hamel (Déroulement 4).
 
