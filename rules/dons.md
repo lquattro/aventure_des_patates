@@ -174,16 +174,25 @@ L'académie des guerriers a débutée...
 
 ##### Catégorie B
 
+* C'est tout ce que t'a !!! (Préviens X dégats par X mana) <b><i>New</b></i>
+<br><i>Gueule comme un tarré et préviens des dégâts suivant la mana utilisé dans l'énervement.</i></br>
+
 * Cri de terreur (2)
 <br><i>Effectue un cri qui fait fuir les proches faibles esprits ennemis et alliés.</i>
 
 * Charge du Bellier (5, Renversement)
 <br><i>Effectue une puissante charge imprégnée de l'esprit du bellier, renversant tout sur son trajet</i>
 
+* Blocus (5, <b>Nécessite un bouclier</b>) <b><i>New</b></i>
+<br><i>Bloque tous les actions physiques contre le guerrier ce tour-ci.
+
 ##### Catégorie C
 
 * Cri Dovahkin (4; Projète les ennemis sur un rayon de 45°c, + 1D4 dégâts de chute)
 <br><i>Effectue un puissant cri de dragon, projetant tout dans un rayon.</i> 
+
+* Adrienne !!! (6; Préviens un coma) <b><i>New</b></i>
+<br><i>Le guerrier crie "Adrienne !!!" et préviens automatiquement une mise en coma (Possible une fois par jour).</i>
 
 <br>
 ### Mage

@@ -4,13 +4,13 @@
 
 Catégorie accessible dès le niveau 1.
 
-* Ambidextre (port de deux armes dans chaque main)
+* Ambidextre (Supprime les malus sur l'utilisation d'une arme dans chaque main)
 * Ami des bêtes : 20%
 * Arc : 20%
 * Armes de tir : 10%
 * Artisanat : 15%
 * Avare : 15%
-* Baratin : 15% <b><i>New</i></b>
+* Baratin : 15%
 * Berserker : double les dégâts physiques (Possibilité d'être incontrôlable)
 * Bouclier : 15%
 * Bourrin : 25% dégâts (Possibilité de casser ses armes)
@@ -18,25 +18,26 @@ Catégorie accessible dès le niveau 1.
 * Chasseur né : 10%
 * Chimiste : 15%
 * Citadin : 10%
-* Chercheur Scientifique : 10% <b><i>New</i></b>
+* Chercheur Scientifique : 10%
 * Concentration : 5%
 * Cuisinier : 15%
-* Débrouillard : 15% <b><i>New</i></b>
+* Débrouillard : 15%
 * Divination : 10%
 * Démoniaque : double les dégâts magiques (Possibilité de se transformer en démon)
 * Epée : 20%
 * Erudition : 15%
 * Esprit résistant : 10%
 * Forgeron : 15%
+* Fourbe : double les effets d'une action (Conditions) <b><i>New</i></b>
 * Guerrier né : 15%
 * Ingénieur : 15%
 * Lames : 10%
 * Lance : 20%
-* Marchand : 15% <b><i>New</i></b>
+* Marchand : 15%
 * Marteau : 20%
 * Maître d'arme : 5%
 * Nationaliste : 20%
-* Observateur : 10% <b><i>New</i></b>
+* Observateur : 10%
 * Peau dur : 10%
 * Proche de son élément : 15%
 * Proche des humains : 20%
@@ -113,3 +114,16 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 * Actif en permanence.
 * Bonus de 25% dégâts (Arrondi au supèrieur).
 * Tout échec critique oblige un jet de dés pour savoir si l'arme se casse.
+
+### Fourbe
+<i>Votre fourberie, vous permet de prendre des postures ou position qui provoque et influence sur le comportement de l'adversaire, l'obligeant à prendre des risques contre vous.</i>
+* Actif aux choix.
+* Double les effets d'une action : Double dégât magique ou physique ou conséquence sur l'action.
+* Si actif, malus sur le test d'action :
+
+Offensif | Défensif | Focus
+--- | --- | ---
+-30% | -25% | -20%
+
+* En cas d'échec, vous subissez une attaque normal (les rêgles de défenses s'appliquent)
+* En cas d'échec critique, vous subissez une attaque normal (les rêgles de défenses s'appliquent <b>PAS</b>)
