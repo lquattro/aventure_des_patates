@@ -184,7 +184,7 @@ L'académie des guerriers a débutée...
 <br><i>Effectue une puissante charge imprégnée de l'esprit du bellier, renversant tout sur son trajet</i>
 
 * Blocus (5, <b>Nécessite un bouclier</b>) <b><i>New</b></i>
-<br><i>Bloque tous les actions physiques contre le guerrier ce tour-ci.
+<br><i>Bloque tous les actions physiques contre le guerrier ce tour-ci.</i>
 
 ##### Catégorie C
 
