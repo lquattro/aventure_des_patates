@@ -17,7 +17,7 @@ Les hommes de la guilde du savoir sont en train d'espionner la population d'Hame
 
 ## Récupérer la mission
 
-* Si Les aventuriers sont dans la ville Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte des tenues de discrétion avec un écusson très dissimulé. ![Ecusson](../icons/ecusson-guilde-savoir.png) Si c'est une reussite ou un échec, les aventuriers remarques juste un grand nombre de personne en tenue de discrétion. En cas d'échèc critique, un des veilleurs de la guilde du savoir va soit voler le bracelet (si les aventuriers l'ont), soit alerter la population de la présence de patate et obliger les aventuriers à fuire la ville ou se cacher.
+* Si Les aventuriers sont dans la ville Hamel, ils ont la possibilité d'apercevoir dans la ville après une réussite critique en test d'observation que beaucoup de personne dans cette ville porte des tenues de discrétion avec un écusson très dissimulé (Déroulement 1). ![Ecusson](../icons/ecusson-guilde-savoir.png) Si c'est une reussite ou un échec, les aventuriers remarques juste un grand nombre de personne en tenue de discrétion. En cas d'échèc critique, un des veilleurs de la guilde du savoir va soit voler le bracelet (si les aventuriers l'ont), soit alerter la population de la présence de patate et obliger les aventuriers à fuire la ville ou se cacher ou se retrouver prisonnier dans la prison de Hamel (Déroulement 5).
 
 * Si les aventuriers sont en possession du bracelet de polymorphie dans Hamel, ils peuvent apercevoir un groupe de la guilde du savoir les suivre (Déroulement 1), si les aventuriers ne les remarquent pas alors ils se feront attaquer plus tard en sortant de Hamel (Déroulement 4).
 
@@ -79,6 +79,11 @@ En sortant de la ville d'Hamel, rapidement le groupe subira une première attaqu
 * Si les aventuriers gagnent, alors un des mercenaires révèleras que c'est la guilde du savoir qui a commendité et que d'autres groupes sont en route, et qu'il n'arreterons pas les attaques tant que les aventuriers seront en la posession du bracelet.
 
 * Si les aventuriers perdent tous, alors ils serront capturés et envoyés au Palais fortifié Ahlkeim.
+
+### Déroulement 5
+
+Le vieux !
+* Si la guilde du savoir a le bracelet et que les aventuriers l'ont perdu et ils sont sans information : il y aura un vieux sur un chemin ou en prison, ou dans une taverne, qui connaît la raison et il donnera un indice sur la guilde du savoir.
 
 ## Les lieux
 
@@ -194,3 +199,9 @@ Mercenaire 1 (Archer) | 16hp / 4mp | 40/60/50 | D4, D6 | Dague rouillé, Arc, Ar
 Mercenaire 2 (Guerrier) | 20hp / 2mp | 50/60/60 | D12 | Epée longue à 2 mains, Armure de maille (3), 14PO | Contre-attaque (1)
 
 **Palais fortifié Ahlkeim**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Veilleur | 14hp / 4mp | 50/50/70 | D4 | Dague, Tenue de discrétion, 15PO | Null
+Soldat Guerrier | 28hp / 4mp | 50/70/50 | D12 | Epée à 2 mains, Armure de plaque (5), 5PO | Barrage anti-projectile (1)
+Fusiller (Archer) | 20hp / 5mp | 60/70/40 | D6+5 dégâts | Mousquet, Armure de plaque (5), 5PO | Tir Précis (3; 10%; +3 de dégât + 1 cast)
