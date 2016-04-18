@@ -4,9 +4,9 @@ De face | De dessus
 --- | ---
 ![face](image/barial.png) | ![top](image/barial-top.png)
 
-Race du personnage | Classe | L'ordre Magique | Posture Favorite
---- | --- | --- | ---
-Homme patate | Mage | L'ordre de la patate cuite (Feu) | Offensif : Max dégats
+Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
+--- | --- | --- | --- | ---
+1 | Homme patate | Mage | L'ordre de la patate cuite (Feu) | Offensif : Max dégats
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
@@ -35,3 +35,15 @@ Vie | Mana | Mental | Physique | Social
 * Bouclier Brassard di Luna (bouclier lune fixé sur le brassard; indice 1)
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 * Tenue de discrétion
+
+---
+
+# Level 2
+
+## Stats : + 3 points
+Vie | Mana
+--- | ---
+10 | 8
+
+## Nouveau dons :
+* Unknow

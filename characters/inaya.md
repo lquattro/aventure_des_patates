@@ -4,9 +4,9 @@ De face | De dessus
 --- | ---
 ![face](image/inaya.png) | ![top](image/inaya-top.png)
 
-Race du personnage | Classe | L'ordre Magique | Posture Favorite
---- | --- | --- | ---
-Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
+Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
+--- | --- | --- | --- | ---
+1 | Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---

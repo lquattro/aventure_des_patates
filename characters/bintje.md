@@ -4,9 +4,9 @@ De face | De dessus
 --- | ---
 ![face](image/bintje.png) | ![top](image/bintje-top.png)
 
-Race du personnage | Classe | L'ordre Magique | Posture Favorite
---- | --- | --- | ---
-Homme patate | Archer | L'ordre de la patate aérée (Vent) | Focus : Bonus de précision
+Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
+--- | --- | --- | --- | ---
+1 | Homme patate | Archer | L'ordre de la patate aérée (Vent) | Focus : Bonus de précision
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
@@ -48,3 +48,15 @@ MoonMoon était un loup de la meute de feu de la forêt des toufus. Cette meute 
 * Ustensiles de chasseur
 * Ustensiles de cuisine
 * Bourse : 10 PO
+
+---
+
+# Level 2
+
+## Stats : + 3 points
+Vie | Mana
+--- | ---
+11 | 7 
+
+## Nouveau dons :
+* Unknow
