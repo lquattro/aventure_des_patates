@@ -25,8 +25,8 @@ Vie | Mana | Mental | Physique | Social
 * Erudition : 15%
 
 ## Dons : 
-* Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus) 
 * Création (Génère de l'élément; 1)
+* Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus) 
 * Méditation (Regen X Mana par X Tour)
 * Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
 

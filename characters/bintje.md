@@ -59,4 +59,11 @@ Vie | Mana
 11 | 7 
 
 ## Nouveau dons :
-* Unknow
+* Télépathie empathique avec les animaux et plantes (3; 1 tour de cast)
+* Inconnu
+* Inconnu
+* Inconnu
+* Inconnu
+
+## Classe
+Archer -> Druide

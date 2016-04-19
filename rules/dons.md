@@ -307,10 +307,17 @@ L'ordre de la mécha-patate est le dernière ordre qui a été créé et qui a r
 
 Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
-* Création (Génère de l'élément; 1) [mecha impossible]
-* Déplacement élémentaire (3)
+* Création (1; Génère de l'élément magique) [mecha impossible]
+<br><i>Le personnage génère l'élément magique dans sa main, pouvant ensuite l'utiliser pour des dons nécessitant la création.</i>
+
+* Déplacement élémentaire (3; Dure peu de temps)
+<br><i>Utilise sa part élémentaire pour se déplacer sur son élément ou se projeter.</i>
+
 * Invocation créature mineur (3+ round de maintien - coût de maintien 2)
-* Nuage élémentaire (3)
+<br><i>Invoque une petite créature élémentaire, qui grossira suivant le nombre de maintien.</i>
+
+* Nuage élémentaire (3+ round de maintien - coût de maintien 2)
+<br><i>Fait apparaitre un petit nuage élémentaire autour du personnage, qui grossira suivant le nombre de maintien.</i>
 
 <br>
 ### L'ordre de la divine patate (Lumière)
@@ -331,6 +338,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie B
 
 * Imposition des mains (Soigne X*2 pour X mana dépensée)
+* Foudre Divine (5; Inflige 1D10 + 2 de dégâts sur un ennemi)
 
 ##### Catégorie C
 
