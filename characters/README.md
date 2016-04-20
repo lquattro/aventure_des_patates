@@ -3,7 +3,7 @@
 Voici la liste des personnages existants.
 Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est possible de faire dans l'univers des patates.
 
-# Fiche de personnage à la création
+## Fiche de personnage à la création
 
 ### Groupe A
 
@@ -22,9 +22,9 @@ Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est po
 [Erok](erok.md) | [Shrink](shrink.md)
 --- | ---
 ![Erok](image/erok.png)  | ![Shrink](image/shrink.png)
-<br><br><br>
+<br><br>
 
-# Fiches actuel
+## Fiches actuel
 
 * [Baldor l'exécuteur](#baldor-lexécuteur)
 * [Inaya](#inaya)
@@ -71,7 +71,8 @@ Vie | Mana | Mental | Physique | Social
 * Outils de forge
 * Gourde d'eau x2
 * Bourse : 228 PO
-<br>---
+<br>
+---
 
 ## Inaya
 
@@ -113,7 +114,8 @@ Vie | Mana | Mental | Physique | Social
 * Ustensiles médicale
 * Bourse : 477 PO
 * Arc (D6, +2 dégâts)
-<br>---
+<br>
+---
 
 ## Barial
 
@@ -146,6 +148,7 @@ Vie | Mana | Mental | Physique | Social
 * Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus) 
 * Méditation (Regen X Mana par X Tour)
 * Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
+* Enflammation magique (2+; enflamme un objet, coût de maintien 1)
 
 ### Inventaires :
 * Dague Ensorcelé (D6; +Bonus vitesse, +1 dégâts des sorts; Ambidextre : +Bonus)
@@ -153,7 +156,8 @@ Vie | Mana | Mental | Physique | Social
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 * Tenue de discrétion
 * Bourse : 44 PO
-<br>---
+<br>
+---
 
 ## Bintje
 
