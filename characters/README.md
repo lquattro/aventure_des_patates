@@ -3,11 +3,9 @@
 Voici la liste des personnages existants.
 Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est possible de faire dans l'univers des patates.
 
----
-
 # Fiche de personnage à la création
 
-## Groupe A
+### Groupe A
 
 [Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md)
 --- | ---
@@ -17,17 +15,21 @@ Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est po
 --- | ---
 ![Barial](image/barial.png) | ![Bintje "DeadEye"](image/bintje.png)
 
-## Groupe B
+### Groupe B
 
-## Réserviste
+### Réserviste
 
 [Erok](erok.md) | [Shrink](shrink.md)
 --- | ---
 ![Erok](image/erok.png)  | ![Shrink](image/shrink.png)
+<br><br><br>
 
----
+# Fiches actuel
 
-## Fiches actuel
+* [Baldor l'exécuteur](#baldor-lexécuteur)
+* [Inaya](#inaya)
+* [Barial](#barial)
+* [Bintje "DeadEye](#bintje)
 
 ## Baldor l'exécuteur
 
@@ -69,7 +71,7 @@ Vie | Mana | Mental | Physique | Social
 * Outils de forge
 * Gourde d'eau x2
 * Bourse : 228 PO
-<br>
+<br>---
 
 ## Inaya
 
@@ -111,7 +113,7 @@ Vie | Mana | Mental | Physique | Social
 * Ustensiles médicale
 * Bourse : 477 PO
 * Arc (D6, +2 dégâts)
-<br>
+<br>---
 
 ## Barial
 
@@ -151,7 +153,7 @@ Vie | Mana | Mental | Physique | Social
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 * Tenue de discrétion
 * Bourse : 44 PO
-<br>
+<br>---
 
 ## Bintje
 
