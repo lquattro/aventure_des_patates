@@ -386,7 +386,7 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie C
 
 * Propulseur dorsal rétractable (4; permet de voler pendant quelques instants)
-<br><i>Permet de déployer, utiliser et ranger un propulseur dorsal.</ir>
+<br><i>Permet de déployer, utiliser et ranger un propulseur dorsal.</i>
 
 <br>
 ### L'ordre de la patate aérée (Vent)
