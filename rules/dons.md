@@ -331,18 +331,29 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Barrière de lumière chargé életriquement (3)
+<br><i>Après une prière, une barrière de lumière s'impose à l'endroit visé. Tout projectile qui passe à travers la barrière se voit chargé élèctriquement. La barrière inflige des dégâts si on passe dessous.</i>
+
 * Rédemption (Soigne X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
-* Illumination (2, Invoque un boule énergétique de lumière qui éclaire sur certaine distance)
-* Imprégnation divine (2+, Imprégne un objet d'une lumière divine : très efficace contre tous les démons, coût de maintien 1)
+<br><i>Applique une aura magique sur des bandages, qui soigne dans le temps le porteur du bandage.</i>
+
+* Illumination (2)
+<br><i>Invoque une boule énergétique de lumière qui éclaire sur une certaine distance et qui suit l'invocateur.</i>
+
+* Imprégnation divine (2+; coût de maintien 1)
+<br><i>Imprégne un objet d'une lumière divine et élèctrique, rendant l'arme ou projectile très efficace contre tous les créatures sensible à la lumière et l'élèctricité.</i>
 
 ##### Catégorie B
 
 * Imposition des mains (Soigne X*2 pour X mana dépensée)
+<br><i>Invoque une lumière douce de ces mains et applique un soin magique à une personne.</i>
+
 * Foudre Divine (5; Inflige 1D10 + 2 de dégâts sur un ennemi)
+<br><i>Prière qui invoque un coup de foudre sur une position.</i>
 
 ##### Catégorie C
 
-* Pulsion divine (4; Soigne 6 points de vie les alliés et 6 de dégâts magique les ennemis)
+* Pulsion divine (4; Soigne 1D8 points de vie les alliés et 1D8 de dégâts magique les ennemis)
+<br><i>Fait bouillir son énergie élémentaire pour avoir des pulsions de lumière, soignant les alliés et infligéant des dégâts aux ennemis dans un rayon autour du personnage.</i>
 
 <br>
 ### L'ordre de la mécha-patate (Machine)
@@ -356,17 +367,26 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Bouclier rétractable (1)
+<br><i>Permet de déployer et rengainer un bouclier rétractable situé dans un des bras.</i>
+
 * Bouclier énergétique (Protège X dégâts pour X mana dépensée)
+<br><i>Invoque un bouclier énergétique qui protège le personnage d'attaque physique et magique.</i>
+
 * Vision infrarouge (2)
+<br><i>Permet au personnage de voir pendant un petit moment en vision infrarouge.</i>
+
 * Lanceur de carreau rétractable (2; Permet de lancer des carreaux)
+<br><i>Permet de déployer et rengainer une arbalète intégrée dans un des bras, qui tire des carreaux.</i>
 
 ##### Catégorie B
 
-* Renforcement Nano (4; les nano-machines modifient la surface de la peau pour encaisser 2D4 de dégâts)
+* Renforcement Nano (4; Préviens 2D4 de dégâts pendant 1 tour)
+<br><i>Le personnage utilise les nanomachines pour modifier la surface de sa peau, lui permettant d'encaisser de lourd dégâts pendant 1 tour.</i>
 
 ##### Catégorie C
 
-* Propulseur dorsale rétractable (4; permet de voler pendant quelques instants)
+* Propulseur dorsal rétractable (4; permet de voler pendant quelques instants)
+<br><i>Permet de déployer, utiliser et ranger un propulseur dorsal.</ir>
 
 <br>
 ### L'ordre de la patate aérée (Vent)
@@ -379,18 +399,27 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Barrière corporelle (2; écarte tous les projectibles contre soit pendant quelques instants)
+* Barrière corporelle (2; écarte tous les projectiles contre soit pendant quelques instants)
+<br><i>Utilise la magie élémentaire pour parrer tous les projectiles sur une personne.</i>
+
 * Vole mineur (3; permet de voler pendant quelques instants)
+<br><i>Utilise le vent pour permettre au personnage de voler quelques instants.</i>
+
 * Projection d'objet (1; projecte/ramène un objet grâce au vent)
+<br><i>Utilise le vent pour projecter un objet vers soit ou loin de soit.</i>
 
 ##### Catégorie B
 
 * Poigne (4; permet de suspendre un objet/ennemi pendant quelques instants)
+<br><i>Utilise la magie du vent pour suspendre un ennemi l'empéchant de bouger</i>
+
 * Vole majeur (6; permet de voler pendant un moment)
+<br><i>Utilise le vent pour permettre au personnage de voler pendant un moment.</i>
 
 ##### Catégorie C
 
 * Maitrise de vole (7; permet de voler; remplace le Vole Majeur)
+<br><i>Utilise le vent pour permettre au personnage de voler en permanence.</i>
 
 <br>
 ### L'ordre de la patate cuite (Feu)
@@ -403,18 +432,27 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
-* Enflammation magique (2+; enflamme un objet, coût de maintien 1)
-* Résistance au feu (3; creait une sphère sur une personne qui protège le porteur de toute flamme)
-* Création de magma (4; permet la création d'un petit cratère de magma)
+* Barrière de flamme (3)
+<br><i>Génère une barrière de flamme à petite portée du personnage.</i>
+
+* Enflammation magique (2+; coût de maintien 1)
+<br><i>Utilise la magie du feu pour enflammée un objet. Plus le personnage maintient et plus la flamme sera puissante.</i>
+
+* Résistance au feu (3)
+<br><i>Créait une sphère sur une personne qui protège le porteur de toute flamme.</i>
+
+* Création de magma (4)
+<br><i>Créait un cratère magique de magma qui dure pendant quelques tours.</i>
 
 ##### Catégorie B
 
-* Manipulation des flammes (5; Permet de faire bouger les flammes pendant quelques instants)
+* Manipulation des flammes (5)
+<br><i>Permet de faire bouger les flammes pendant quelques instants.</i>
 
 ##### Catégorie C
 
-* Phoenix (8; uniquement 1 fois tous les 3 jours, le personnage peut s'enfermer dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon, le personnage retrouve toutes sa vie et mana, l'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins)
+* Phoenix (8; uniquement 1 fois tous les 3 jours)
+<br><i>Le personnage s'enferme dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon. Le personnage retrouve toutes sa vie et mana. L'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins.</i>
 
 <br>
 ### L'ordre de la patate d'eau (Eau)
@@ -427,18 +465,27 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Bouclier de glace (3; génère un bouclier de glace sur une partie du corps pendant 3 tours)
-* Cristallisation (1; cristallise de l'eau)
-* Respiration aquatique (3; permet de respirer sous l'eau pendant un long moment)
+* Bouclier de glace (3; Actif pendant 3 tours)
+<br><i>Génère un bouclier de glace sur une partie du corps.</i>
+
+* Cristallisation (1)
+<br><i>Cristallise de l'eau</i>
+
+* Respiration aquatique (3; Dure pendant un long moment)
+<br><i>Permet au personnage de respirer sous l'eau pendant un long moment.</i>
+
 * Projection d'eau (2; project de l'eau avec pression)
+<br><i>Projecte de l'eau avec une forte pression.</i>
 
 ##### Catégorie B
 
-* Contrôle de l'eau (5; Permet de faire bouger anormalement de l'eau pendant quelques instants)
+* Contrôle de l'eau (5; Dure quelques instants)
+<br><i>Permet de faire bouger anormalement de l'eau pendant quelques instants.</i>
 
 ##### Catégorie C
 
-* Mutation aquatique (10; uniquement 1 fois tous les 2 jours, le personnage se transforme en un golem d'eau pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève)
+* Mutation aquatique (10; Dure pendant un bon moment, uniquement 1 fois tous les 2 jours)
+<br><i>Le personnage se transforme en un golem d'eau pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève.</i>
 
 <br>
 ### L'ordre de la pataterie (Obscure)
@@ -452,15 +499,20 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 ##### Catégorie A
 
 * Bouclier d'os (3)
+<br><i>Génère un bouclier d'os à partir de l'os de son bras.</i>
+
 * Malédiction (Blesse X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
+<br><i>Maudit une personne pendant un moment, infligeant des effets néfastes à la personne.</i>
 
 ##### Catégorie B
 
 * Malédiction de zone (Blesse X Vie pour X*4 Mana dépensée, dure X*3 en tour)
+<br><i>Maudit une zone pendant un moment, infligeant des effets néfastes à toutes les personnes dans la zone.</i>
 
 ##### Catégorie C
 
-* Imprégnation des ombres (8; uniquement 1 fois par jour, le personnage devient une ombre pendant un bon moment, insensible aux dégâts physiques)
+* Imprégnation des ombres (8; uniquement 1 fois par jour)
+<br><i>Le personnage devient une ombre pendant un bon moment, devenant insensible aux dégâts physiques.</i>
 
 <br>
 ### L'ordre de la pomme de terre (Terre)
@@ -473,13 +525,18 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
-* Bouclier de terre (3; génère un bouclier de terre sur une partie du corp pendant 3 tours)
-* Peau de roche (4; la peau du personnage devient aussi dur que de la roche)
+* Bouclier de terre (3; Actif pendant 3 tours)
+<br><i>Génère un bouclier de terre sur un des bras pendant un petit moment.</i>
+
+* Peau de roche (4; Actif pendant quelques instants)
+<br><i>Invoque la magie de la terre pour durcir sa peau comme de la roche pendant un petit moment.</i>
 
 ##### Catégorie B
 
 * Tremblement de terre (6; fait vibrer et bouger le sol annulant toutes les actions en cours et projectiles)
+<br><i>Invoque l'élément de terre et fait trembler la terre, annulant toutes les actions en cours et modifiant les trajectoires des projectiles.</i>
 
 ##### Catégorie C
 
-* Mutation de golem (10; uniquement 1 fois tous les 3 jours, le personnage se transforme en un golem de roche pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève)
+* Mutation de golem (10; uniquement 1 fois tous les 3 jours)
+<br><i>Le personnage se transforme en un golem de roche pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève.</i>
