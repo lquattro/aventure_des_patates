@@ -1,5 +1,8 @@
 # Story : L'aventure des patates
 
+![Map Monde](map-begin.png)
+<i>Map monde de par les hommes patates.</i>
+
 ## Description :
 
 Provenant de la terre et né par la magie, vous et votre peuple êtes une nouvelle ère de l'histoire de ce monde,
