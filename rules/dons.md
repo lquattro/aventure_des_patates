@@ -229,6 +229,9 @@ L'académie des mages a débutée...
 * Télépathie (3; +1 cast, Dur longtemps)
 <br><i>Installe la télépathie dans les esprits volontaires.</i>
 
+* Barrière Magique (2+; Protège 1D8 de dégâts magique - coût de maintien 1)
+<br><i>Génère de ces mains une barrière magique protégeant toute personne derrière la barrière.</i>
+
 ##### Catégorie B
 
 * Pulsion Arcanique (9; 3D10 dégâts, 3 boules, Explosion contact)

@@ -114,6 +114,13 @@ La forêt qui sépare Stolons d'Hamel est assez grande, avec une grande densité
 
 * Dalim l'ogre des forêts gardent le pont, et laisse uniquement pour des pièces d'or ou leurs nourritures <b><i>(La nourriture étant le plus important)</b></i>.
 
+### La prison de Hamel
+
+Cette prison a la particularité d'avoir un accès par l'eau, pouvant acoster les prisonniers par directement dans la prison plutôt que sur la place publique.
+Elle possède plusieurs cellules et deux accès à la surface, c'est une prison sous la ville.
+Il y a pas mal de prisonnier, dont "le vieux".
+De plus, il paraitrait qu'il y est d'étrange disparition depuis quelques jours dans cette prison.
+
 ## La fin de la mission
 
 * Si le grand sage Hilidmer meurt, la guilde du savoir va arrêter les recherches et stoper les activitées concernant le bracelet. Quelques mois suivant une autre personne prendra le projet et une nouvelle quête débutera [La guilde du savoir 2](laguildedusavoir2.md).
@@ -127,6 +134,21 @@ La forêt qui sépare Stolons d'Hamel est assez grande, avec une grande densité
 ## Annexes
 ### Les butins
 
+**Palais fortifié Ahlkeim :**
+
+* Ustensile d'enchantement
+* 2 Coffre 200 PO
+* 4 Gemmes spirituels Mineur
+* 2 Gemmes spirituels
+* 1 Gemmes spirituels Majeur
+* 20 Portions de nourriture
+* 6 Sacs de couchage
+* 20 Biblos précieux
+
+**La forêt Verdatre**
+
+* 2 Coffre 50 PO
+* Livre du trappeur
 
 ### Table des rencontres & ennemis
 
@@ -144,6 +166,14 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 Garde de la ville 1 (Guerrier) | 25hp / 6mp | 40/75/55 | D10 | Epée, Armure de plaque (4), 6PO | Charge puissante, contre-attaque
 Garde de la ville 2 (Archer) | 20hp / 8mp | 55/75/40 | D8 | Arc à poulie, Armure de cuir (2), 6PO | Oeil de faucon
 Garde de la ville 3 (Cavalier) | 30hp / 4mp | 55/75/40 | D10 | Epée, Armure de plaque (5), 6PO | Charge puissante, contre-attaque
+
+**Prison d'Hamel**
+
+Name | HP/MP | Percentage | Dices | Equipment | Spell
+:-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+Gardien 1 (Guerrier) | 22hp / 6mp | 40/70/60 | D8 | Epée en Mauvais état, Armure de cuir (2), 1PO | Contre-attaque (1)
+Gardien 2 (Archer) | 18hp / 8mp | 50/70/50 | D6 | Arc, 1PO | Oeil de faucon
+Araigné Géante | 32hp / 0mp | 30/75/30 | D8, D4 | Pate, Dard empoisonné | Null
 
 **L'auberge de la bonne purée**
 
@@ -205,3 +235,8 @@ Name | HP/MP | Percentage | Dices | Equipment | Spell
 Veilleur | 14hp / 4mp | 50/50/70 | D4 | Dague, Tenue de discrétion, 15PO | Null
 Soldat Guerrier | 28hp / 4mp | 50/70/50 | D12 | Epée à 2 mains, Armure de plaque (5), 5PO | Barrage anti-projectile (1)
 Fusiller (Archer) | 20hp / 5mp | 60/70/40 | D6+5 dégâts | Mousquet, Armure de plaque (5), 5PO | Tir Précis (3; 10%; +3 de dégât + 1 cast)
+Gardien Gruf le Pu | 40hp / 7mp | 30/70/70 | D4 | Fouet, 4PO | Null
+Apprentie Mage | 14hp / 10mp | 70/30/70 | D4 | Dague, 1PO | Création(1), Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus), Barrière Magique (2+; Protège 1D8 de dégâts magique - coût de maintien 1)
+Magicien | 24hp / 14mp | 70/40/60 | D4 | Dague, Tunic avec du cuir (1), 4PO | Création(1), Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus), Barrière Magique (2+; Protège 1D8 de dégâts magique - coût de maintien 1)
+Second d'Hilidmer | 30hp / 16mp | 70/60/60 | D6 | Epée courte, Armure de cuir (2), 16PO | Création(1), Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus), Barrière Magique (2+; Protège 1D8 de dégâts magique - coût de maintien 1)
+Hilidmer | 40hp / 22mp | 70/60/60 | D10 | Epée d'Ellenfe (+1 dégâts magique), Armure de cuir enchanté (2; 2 protéction magique), 340PO | Création(1), Boule (1+; 1D6 dégâts + X de dégâts par X Mana en plus), Barrière Magique (2+; Protège 1D8 de dégâts magique - coût de maintien 1), Pulsion Arcanique (9; 3D10 dégâts, 3 boules, Explosion contact), Enchantement d'objet (12; Mental % soumis à la gemme spirituel, mais n'exclus pas les bonus de compétences du personnage qui pratique l'enchantement).
