@@ -8,7 +8,7 @@ Une fiche personnage comprend obligatoirement les statistiques, une posture favo
 * Mana
 * Vie
 
-### Pourcentage (170% total)
+### Pourcentage (170% total, max d'une stats 75%)
 * Mental
 * Physique
 * Social

@@ -17,6 +17,11 @@ Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est po
 
 ### Groupe B
 
+[Traven](traven.md) | [Inconnu](inconnu.md)
+--- | ---
+![Traven](image/traven.png)  | ![Inconnu](image/inconnu.png)
+<br><br>
+
 ### Réserviste
 
 [Erok](erok.md) | [Shrink](shrink.md)
