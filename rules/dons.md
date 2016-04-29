@@ -504,18 +504,39 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Bouclier d'os (3)
 <br><i>Génère un bouclier d'os à partir de l'os de son bras.</i>
 
-* Malédiction (Blesse X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
+* Malédiction de vie (Blesse X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible)
 <br><i>Maudit une personne pendant un moment, infligeant des effets néfastes à la personne.</i>
+
+* Entrave (1)
+<br><i>Entrave les pieds d'une personne grâce à son ombre, l'empéchant de bouger pendant 3 tours.</i>
+
+* Affaiblissement (2)
+<br><i>Affaiblit un ennemi, lui enlevant pendant 1 tour la moitié de ces points de vie. L'ennemi retrouve les points de vie de l'affaiblissement le tour suivant.</i>
+
+* Barrière de damné (3)
+<br><i>Invoque des esprits damnés et forme une barrière d'ame qui aggresse toutes personnes qui ose passer à travers.</i>
+
+* Capture d'ame agonisante (4)
+<br><i>Permet de capturer l'ame d'une personne qui vient de mourir ou dans le coma et de l'intégré dans une gemme spirituelle mineur.</i>
 
 ##### Catégorie B
 
 * Malédiction de zone (Blesse X Vie pour X*4 Mana dépensée, dure X*3 en tour)
 <br><i>Maudit une zone pendant un moment, infligeant des effets néfastes à toutes les personnes dans la zone.</i>
 
+* Entrave de zone (5)
+<br><i>Affaiblit toutes les personnes dans une zone, enlevant pendant 1 tour la moitié de leurs points de vie. Les personnes retrouvent les points de vie de l'affaiblissement le tour suivant.</i>
+
+* Capture d'ame faible (7)
+<br><i>Permet de capturer l'ame d'une personne affaiblit (Inférieur ou égal à 50%) et de l'intégré dans une gemme spirituelle.</i>
+
 ##### Catégorie C
 
 * Imprégnation des ombres (8; uniquement 1 fois par jour)
 <br><i>Le personnage devient une ombre pendant un bon moment, devenant insensible aux dégâts physiques.</i>
+
+* Capture d'ame vigoureuse (10)
+<br><i>Permet de capturer l'ame d'une personne en pleine santé et de l'intégré dans une gemme spirituelle majeur.</i>
 
 <br>
 ### L'ordre de la pomme de terre (Terre)
