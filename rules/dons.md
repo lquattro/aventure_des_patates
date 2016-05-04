@@ -549,6 +549,12 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 
 ##### Catégorie A
 
+* Entrave rocheuse (1)
+<br><i>Entrave les pieds d'une personne grâce à la terre qui capture les pieds de l'aversaire, l'empéchant de bouger pendant 3 tours.</i>
+
+* Elévation rocheuse (5)
+<br><i>Elève de quelques mètres le sol, renversant les ennemies et brisant certains murs</i>
+
 * Bouclier de terre (3; Actif pendant 3 tours)
 <br><i>Génère un bouclier de terre sur un des bras pendant un petit moment.</i>
 
@@ -560,7 +566,13 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Tremblement de terre (6; fait vibrer et bouger le sol annulant toutes les actions en cours et projectiles)
 <br><i>Invoque l'élément de terre et fait trembler la terre, annulant toutes les actions en cours et modifiant les trajectoires des projectiles.</i>
 
+* Invocation des protecteurs de la terre (8)
+<br><i>Invoque des créatures 1D8 protecteurs de la terre, qui protège uniquement le groupe. Ces créatures ne peuvent pas être utilisé offensivement.</i>
+
 ##### Catégorie C
+
+* Murmure de la terre (7)
+<br><i>Le personnage tente de ne faire qu'un avec la terre, lui permettant de géolocaliser des éléments, choses, et personnes à une grande distance.</i>
 
 * Mutation de golem (10; uniquement 1 fois tous les 3 jours)
 <br><i>Le personnage se transforme en un golem de roche pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève.</i>
