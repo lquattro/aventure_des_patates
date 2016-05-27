@@ -19,7 +19,7 @@ Ce jeu de rôle a été conçu pour fonctionner avec [Roll20](https://roll20.net
 
 ## LICENSE
 
-[GNU GENERAL PUBLIC LICENSE V2](LICENSE)
+[GNU GENERAL PUBLIC LICENSE V3](LICENSE)
 
 ---
 
