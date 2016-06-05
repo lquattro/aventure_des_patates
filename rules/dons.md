@@ -93,8 +93,8 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 <br><i> Dons inconnu qui semblerait faire pousser des plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Guérison des plaies -->
-* Inconnu A3
-<br><i> Dons inconnu qui semblerait soigner des blessures. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
+* Guérison des plaies (1; +nécessite 1 plante; soigne 1D6)
+<br><i> Dons de guérison des plaies qui soigne 1D6. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Contrôle des plantes -->
 * Inconnu A4

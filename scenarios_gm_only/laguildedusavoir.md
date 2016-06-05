@@ -224,9 +224,11 @@ Groupe Aventurier: Pitt (Homme-patate Mage Feu) | 14hp / 10mp | 70/40/60 | D6 | 
 Groupe Aventurier: Alan Devirg (Humain Paladin Lumière) | 20hp / 6mp | 60/60/50 | D10 | Epée, Bouclier Ecu(2), Armure de plaque (4), 20PO | Rédemption (Soigne X Vie pour X*2 Mana dépensée, dure X*3 en tour, Focus impossible), Méditation (Regen X Mana par X Tour), Protection magique (3, Protège magiquement sur 1D6 de dégâts)
 Haut-Elfe garde 1 (Archer) | 20hp / 4mp | 40/70/50 | D8, D8 +1  | Arc elfique, Epée courte Elfique, Armure de plaque (4), 5PO | Sprint(1)
 Haut-Elfe garde 2 (Guerrier) | 24hp / 2mp | 40/70/50 | D8, D8 +1  | Arc elfique, Epée courte Elfique, Armure de plaque (4), 5PO | Contre-attaque (1)
+Haut-Elfe Mage(Mage) | 22hp / 8mp | 70/40/60 | D6 + 1 | Dague Longue Elfique, 5PO | Boule, Rayon
 Dragon de givre | 40hp / 10mp | 60/70/40 | D10  | Griffe et croc, Ecaille de dragon | Souffle givrant (4; 3D4 sur zone)
 Mercenaire 1 (Archer) | 16hp / 4mp | 40/60/50 | D4, D6 | Dague rouillé, Arc, Armure de cuir (2), 14PO | Sprint(1)
 Mercenaire 2 (Guerrier) | 20hp / 2mp | 50/60/60 | D12 | Epée longue à 2 mains, Armure de maille (3), 14PO | Contre-attaque (1)
+Mercenaire 3 (Mage) | 15hp / 8mp | 70/50/60 | D6 | Dague, Armure de cuir (2), 8PO | Boule, Rayon
 
 **Palais fortifié Ahlkeim**
 

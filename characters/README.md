@@ -209,7 +209,6 @@ Level | Race | Vie | Mana | Mental | Physique | Social
 MoonMoon était un loup de la meute de feu de la forêt des toufus. Cette meute est réputé pour avoir de violent combat avec la meute d'eau. C'est une meute assez offensive rendant l'apprivoisement impossible. Étrangement MoonMoon a été apprivoisé pendant un combat par Bintje, ce loup semble avoir une grande affinité avec Bintje et un lien plus fort que de maître les unis.
 
 ### Inventaires :
-* Arc (D6; +1 dégâts; Ambidextre impossible)
 * Dague (D6; +Bonus vitesse; Ambidextre possible : +Bonus)
 * Tenue de discrétion
 * Ustensiles de chasseur
