@@ -22,15 +22,16 @@ Catégorie accessible dès le niveau 1.
 * Concentration : 5%
 * Cuisinier : 15%
 * Débrouillard : 15%
+* Détection des pièges mécaniques : 20% (Spécialisation dans les pièges) <b><i>New</i></b>
 * Divination : 10%
 * Démoniaque : double les dégâts magiques (Possibilité de se transformer en démon)
 * Epée : 20%
 * Erudition : 15%
 * Esprit résistant : 10%
 * Forgeron : 15%
-* Fourbe : double les effets d'une action (Conditions) <b><i>New</i></b>
+* Fourbe : double les effets d'une action (Conditions)
 * Guerrier né : 15%
-* Ingénieur : 15%
+* Ingénieur : 10% (offre un bonus dans divers actions qui requière l'ingénieurie : exemple détection des pièges)
 * Lames : 10%
 * Lance : 20%
 * Marchand : 15%
