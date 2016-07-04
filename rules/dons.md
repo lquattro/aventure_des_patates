@@ -88,47 +88,46 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 * Télépathie empathique avec les animaux et plantes (3; 1 tour de cast)
 <br><i> Dons exceptionnel qui permet au druide de comprendre et parler aux plantes et aux animaux.</i>
 
-<!-- Amplification de la pousse des plantes -->
+<!-- Amplification de la pousse des plantes (1+) -->
 * Inconnu A2
 <br><i> Dons inconnu qui semblerait faire pousser des plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
-<!-- Guérison des plaies -->
 * Guérison des plaies (1; +nécessite 1 plante; soigne 1D6)
 <br><i> Dons de guérison des plaies qui soigne 1D6. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
-<!-- Contrôle des plantes -->
+<!-- Contrôle des plantes (3; Dur peu de temps) -->
 * Inconnu A4
 <br><i> Dons inconnu qui semblerait avoir le contrôle sur les plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
-<!-- Apaisement -->
+<!-- Apaisement (2) -->
 * Inconnu A5
 <br><i> Dons inconnu qui semblerait apaiser toute vie. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
-<!-- Invocation Serpent de ronce -->
+<!-- Invocation Serpent de ronce (4+; Dur un bon moment) -->
 * Inconnu A6
 <br><i> Dons inconnu qui semblerait invoquer des créatures à base de plante. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 ##### Catégorie B
 
-<!-- Invocation Treant -->
+<!-- Invocation Treant (6+; 2D6 de dégâts + X de mana ajoute X de dégâts) -->
 * Inconnu B1
 <br><i> Dons inconnu qui semblerait donner vie à un arbre. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
-<!-- Chant de la licorne -->
+<!-- Chant de la licorne (6) -->
 * Inconnu B2
 <br><i> Dons inconnu qui semblerait faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
-<!-- Méthamorphe Animal -->
+<!-- Méthamorphe Animal (3/5/7/9) -->
 * Inconnu B3
-<br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+<br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 ##### Catégorie C
 
-<!-- Appel des fées -->
+<!-- Appel des fées (10) -->
 * Inconnu C1
 <br><i> Dons inconnu qui semblerait faire apparaitre des fées. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
-<!-- Méthamorphe Végétal -->
+<!-- Méthamorphe Végétal (10+; 2D8 de dégâts) -->
 * Inconnu C2
 <br><i> Dons inconnu qui permettrait au druide de se transformer en Treant. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
