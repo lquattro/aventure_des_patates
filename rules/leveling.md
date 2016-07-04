@@ -9,7 +9,7 @@ Level | Points | Nombre total de Compétences | Nombre total de Dons | Nombre to
 1 | 15 | 4 | 4 | 0
 2 | 18 | 4 | 5 | 0
 3 | 21 | 4 | 6 | 0
-4 | 24 | 4 | 6 | 0
+4 | 24 | 4 | 6 | 1
 5 | 27 | 5 | 7 | 2
 6 | 30 | 5 | 7 | 4
 7 | 33 | 5 | 8 | 6
@@ -24,7 +24,7 @@ Les personnages auront accès à certaines catégories de compétence suivant le
 Level | Catégorie Compétence
 --- | ---
 1 | A
-5 | A, B
+3 | A, B
 8 | A, B, C
 
 ## Leveling des dons
