@@ -3,33 +3,10 @@
 Voici la liste des personnages existants.
 Ces fiches de personnages peuvent données une ordre d'idée sur ce qu'il est possible de faire dans l'univers des patates.
 
-## Fiche de personnage à la création
+* Fiches actuel
+* Fiche de personnage à la création
 
-### Groupe A
-
-[Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md)
---- | ---
-![Baldor](image/baldor.png) | ![Inaya](image/inaya.png)
-
-[Barial](barial.md) | [Bintje "DeadEye"](bintje.md)
---- | ---
-![Barial](image/barial.png) | ![Bintje "DeadEye"](image/bintje.png)
-
-### Groupe B
-
-[Traven](traven.md) | [Inconnu](inconnu.md)
---- | ---
-![Traven](image/traven.png)  | ![Inconnu](image/inconnu.png)
-<br><br>
-
-### Réserviste
-
-[Erok](erok.md) | [Shrink](shrink.md)
---- | ---
-![Erok](image/erok.png)  | ![Shrink](image/shrink.png)
-<br><br>
-
-## Fiches actuel
+## Fiches actuel Groupe A
 
 * [Baldor l'exécuteur](#baldor-lexécuteur)
 * [Inaya](#inaya)
@@ -215,3 +192,29 @@ MoonMoon était un loup de la meute de feu de la forêt des toufus. Cette meute 
 * Ustensiles de cuisine
 * Dent de cochon de guerre
 * Bourse : 14 PO
+
+## Fiche de personnage à la création
+
+### Groupe A
+
+[Baldor l'exécuteur](baldor.md) | [Inaya](inaya.md)
+--- | ---
+![Baldor](image/baldor.png) | ![Inaya](image/inaya.png)
+
+[Barial](barial.md) | [Bintje "DeadEye"](bintje.md)
+--- | ---
+![Barial](image/barial.png) | ![Bintje "DeadEye"](image/bintje.png)
+
+### Groupe B
+
+[Traven](traven.md) | [Inconnu](inconnu.md)
+--- | ---
+![Traven](image/traven.png)  | ![Inconnu](image/inconnu.png)
+<br><br>
+
+### Réserviste
+
+[Erok](erok.md) | [Shrink](shrink.md)
+--- | ---
+![Erok](image/erok.png)  | ![Shrink](image/shrink.png)
+<br><br>

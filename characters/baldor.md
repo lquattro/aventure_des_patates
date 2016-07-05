@@ -1,4 +1,4 @@
-# Baldor l’exécuteur
+# Feuille de personnage Lv1 Baldor l’exécuteur
 
 De face | De dessus
 --- | ---

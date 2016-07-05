@@ -1,4 +1,4 @@
-# Inaya
+# Feuille de personnage Lv1 Inaya
 
 De face | De dessus
 --- | ---

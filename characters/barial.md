@@ -1,4 +1,4 @@
-# Barial
+# Feuille de personnage Lv1 Barial
 
 De face | De dessus
 --- | ---

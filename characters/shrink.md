@@ -1,4 +1,4 @@
-# Shrink
+# Feuille de personnage Lv1 Shrink
 
 Race du personnage | Classe | L'Ordres Magiques | Posture Favorite
 --- | --- | --- | ---
