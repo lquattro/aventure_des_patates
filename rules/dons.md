@@ -484,10 +484,19 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Contrôle de l'eau (5; Dure quelques instants)
 <br><i>Permet de faire bouger anormalement de l'eau pendant quelques instants.</i>
 
+* Invocation de la pluie (10; Dure un bon moment)
+<br><i>Invoque un dieu de l'eau pour décleancher une forte pluie.</i>
+
+* Elasticité d'élémentaire d'eau (4)
+<br><i>Permet au personnage de transformer des parties de son corp en cellule proche de la composition de l'eau, permettant au personnage de passer à travers des barrières, mur avec ouverture...</i>
+
 ##### Catégorie C
 
 * Mutation aquatique (10; Dure pendant un bon moment, uniquement 1 fois tous les 2 jours)
 <br><i>Le personnage se transforme en un golem d'eau pendant un bon moment, si la vie du personnage descend à 25% : la mutation s'achève.</i>
+
+* Golem d'eau (12+; Actif pendant 6 tours, +1 tour par mana supplémentaire)
+<br><i>Invoque 1D6 de golems d'eau à partir d'une source d'eau, qui viennent aider le personnage. Les golems font 1D8 de dégâts, 1D4 d'armure, 1D20 de vie, 1D10 de mana, et possède le dons projection d'eau (2; 1D6). En cas de réussite critique, les golems sont doublement puissant.</i>
 
 <br>
 ### L'ordre de la pataterie (Obscure)
