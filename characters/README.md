@@ -88,11 +88,11 @@ De face | De dessus
 
 Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | --- | ---
-2 | Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
+3 | Homme patate | Archer | L'ordre de la divine patate (Lumière) | Focus : Bonus de précision
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-10 | 8 | 60% | 70% | 40% 
+11 | 10 | 60% | 70% | 40% 
 
 ### Langues parlées
 * Commun
@@ -111,6 +111,7 @@ Vie | Mana | Mental | Physique | Social
 * Création (Génère de l'élément; 1) [mecha impossible]
 * Rédemption (Soigne X Vie pour Xx2 Mana dépensée, dure Xx3 en tour, Focus impossible)
 * Oeil du Faucon (2; 35%, + 1 cast, actif pendant 3 tours)
+* Foudre Divine (5; Inflige 1D10 + 2 de dégâts sur un ennemi)
 
 ### Inventaires :
 * Arc à poulie (D10,  Ambidextre impossible, Bouclier impossible)
