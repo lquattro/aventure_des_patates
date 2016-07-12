@@ -92,7 +92,7 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 * <b>En démon : </b>Sa mana est à 150% (Arrondi au supèrieur) à la transformation.
 * <b>En démon : </b>Focus ses sorts magiques aléatoirement suivant un test de dés.
 * <b>En démon : </b>Utilise aléatoirement les dons : Boule, Rayon, Météor.
-* <b>En démon : </b>Un test de contrôle mental se fait chaque tour, avec un malus de division par 2 du pourcentage de mental du personnage et un bonus pour chaque raté de + 5% au prochain test mental.
+* <b>En démon : </b>Un test de contrôle mental se fait chaque tour, avec un malus de division par 3 du pourcentage de mental du personnage et un bonus pour chaque raté de + 5% au prochain test mental.
 * <b>En démon : </b>Après une réussite de contrôle en démon, le personnage met 5 tours pour redevenir normal (les bonus sont actifs pendant ce temps).
 
 ### Vampirisme

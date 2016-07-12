@@ -451,10 +451,19 @@ Les dons élémentaires sont utilisables dans tous les ordres magiques.
 * Manipulation des flammes (5)
 <br><i>Permet de faire bouger les flammes pendant quelques instants.</i>
 
+* Pluie de boule de feu (8; 1D10 par personne sur zone)
+<br><i>Invoque des boules de feu qui proviennent du soleil et qui tombe sur zone à vive allure, provoquant de gros dégâts.</i>
+
+* Téléportation enflammée (6)
+<br><i>Permet à la personne de se téléporter de flamme en flamme.</i>
+
 ##### Catégorie C
 
 * Phoenix (8; uniquement 1 fois tous les 3 jours)
 <br><i>Le personnage s'enferme dans un oeuf de magma pendant 4 tours, puis explose sur 1D10 par personne dans un certain rayon. Le personnage retrouve toutes sa vie et mana. L'oeuf est fragile : "en cas de coup" l'oeuf peut exploser prématurément enlevant 25% de vie et mana par tour en moins.</i>
+
+* Golem de Feu (12+; Actif pendant 6 tours, +1 tour par mana supplémentaire)
+<br><i>Invoque 1D6 de golems de feu à partir d'une source de flamme, qui viennent aider le personnage. Les golems font 1D12 de dégâts, 1D2 d'armure, 1D24 de vie, 1D6 de mana, et possède le dons boule de feu (1+; 1D6 dégâts + X de dégâts par X Mana en plus). En cas de réussite critique, les golems sont doublement puissant.</i>
 
 <br>
 ### L'ordre de la patate d'eau (Eau)
