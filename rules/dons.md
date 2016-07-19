@@ -95,8 +95,7 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 * Guérison des plaies (1; +nécessite 1 plante; soigne 1D6)
 <br><i> Dons de guérison des plaies qui soigne 1D6. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
-<!-- Contrôle des plantes (3; Dur peu de temps) -->
-* Inconnu A4
+* Contrôle des plantes (3; Dur peu de temps)
 <br><i> Dons inconnu qui semblerait avoir le contrôle sur les plantes. Cela demande plusieurs jours d'apprentissage en autodidacte.</i>
 
 <!-- Apaisement (2) -->
@@ -117,8 +116,7 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 * Inconnu B2
 <br><i> Dons inconnu qui semblerait faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
-<!-- Méthamorphe Animal (3/5/7/9) -->
-* Inconnu B3
+* Méthamorphe Animal (3/5/7/9)
 <br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 ##### Catégorie C
