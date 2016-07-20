@@ -2,6 +2,7 @@
 
 ## Armes
 ### Corp à corp
+* Bâton long (D8; Ambidextre impossible)
 * Bâton de combat (D10;  Ambidextre impossible; Bouclier impossible)
 * Bâton lourd ferré (2D6; +2 dégâts;  Ambidextre impossible; Bouclier impossible)
 * Dague (D6; +Bonus vitesse; Ambidextre possible : +Bonus)
@@ -20,7 +21,7 @@
 * Pistolet à percussion (D4; +3 dégâts)
 
 ### Magique
-* Baton magique (D4; +2 dégâts des sorts; Ambidextre : +Malus)
+* Bâton magique (D4; +2 dégâts des sorts; Ambidextre : +Malus)
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 
 ## Armures

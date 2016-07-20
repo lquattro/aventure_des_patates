@@ -116,7 +116,7 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 * Inconnu B2
 <br><i> Dons inconnu qui semblerait faire apparaitre la créature mystique, la licorne. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
-* Méthamorphe Animal (3/5/7/9)
+* Métamorphe Animal (3/5/7/9)
 <br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 
 ##### Catégorie C

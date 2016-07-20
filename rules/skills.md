@@ -10,6 +10,7 @@ Catégorie accessible dès le niveau 1.
 * Armes de tir : 10%
 * Artisanat : 15%
 * Avare : 15%
+* Bâton : 20%
 * Baratin : 15%
 * Berserker : double les dégâts physiques (Possibilité d'être incontrôlable)
 * Bouclier : 15%

@@ -132,11 +132,11 @@ De face | De dessus
 
 Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | --- | ---
-2 | Homme patate | Mage | L'ordre de la patate cuite (Feu) | Offensif : Max dégats
+3 | Homme patate | Mage | L'ordre de la patate cuite (Feu) | Offensif : Max dégats
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-10 | 8 | 75% | 45% | 50% 
+10 | 11 | 75% | 45% | 50% 
 
 ### Langues parlées
 * Commun
@@ -156,12 +156,15 @@ Vie | Mana | Mental | Physique | Social
 * Méditation (Regen X Mana par X Tour)
 * Barrière de flamme (3; génère une barrière de flamme à petite portée du personnage)
 * Enflammation magique (2+; enflamme un objet, coût de maintien 1)
+* Manipulation des flammes (5)
 
 ### Inventaires :
 * Dague Ensorcelé (D6; +Bonus vitesse, +1 dégâts des sorts; Ambidextre : +Bonus)
 * Bouclier Brassard di Luna (bouclier lune fixé sur le brassard; indice 1)
 * Livre de sort (-1 cast OU +2 Mana; se porte en seconde main)
 * Tenue de discrétion
+* Gemme Arcanique
+* Arc, 50 flêches
 * Bourse : 44 PO
 <br>
 ---
@@ -174,11 +177,11 @@ De face | De dessus
 
 Level | Race du personnage | Classe | L'ordre Magique | Posture Favorite
 --- | --- | --- | --- | ---
-2 | Homme patate | Druide | L'ordre de la patate aérée (Vent) | Focus : Bonus de précision
+3 | Homme patate | Druide | L'ordre de la patate aérée (Vent) | Focus : Bonus de précision
 
 Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | ---
-11 | 7 | 70% | 40% | 60%   
+12 | 9 | 70% | 40% | 60%   
 
 ### Langues parlées
 * Commun
@@ -186,15 +189,15 @@ Vie | Mana | Mental | Physique | Social
 
 ### Compétences :
 * Ami des bêtes : 20%
-* Arc : 20%
+* Bâton : 20%
 * Chasseur né : 10%
 * Observateur : 10%
 
 ### Dons : 
 * Télépathie empathique avec les animaux et plantes (3; 1 tour de cast)
-* Inconnu
-* Inconnu
-* Inconnu
+* Contrôle des plantes (3; Dur peu de temps)
+* Guérison des plaies (1; +nécessite 1 plante; soigne 1D6)
+* Métamorphe Animal (3/5/7/9)
 * Inconnu
 
 ### Compagnon :
@@ -205,13 +208,13 @@ De face | De dessus
 
 Level | Race | Vie | Mana | Mental | Physique | Social
 --- | --- | --- | --- | --- | --- | --- | ---
-1 | Loup | 20 | 0 | 60% | 60% | 50%   
+2 | Loup | 24 | 0 | 60% | 65% | 50%   
 
 <b>Description :</b>
 MoonMoon était un loup de la meute de feu de la forêt des toufus. Cette meute est réputé pour avoir de violent combat avec la meute d'eau. C'est une meute assez offensive rendant l'apprivoisement impossible. Étrangement MoonMoon a été apprivoisé pendant un combat par Bintje, ce loup semble avoir une grande affinité avec Bintje et un lien plus fort que de maître les unis.
 
 ### Inventaires :
-* Dague (D6; +Bonus vitesse; Ambidextre possible : +Bonus)
+* Baton long (D8; Ambidextre impossible)
 * Tenue de discrétion
 * Ustensiles de chasseur
 * Ustensiles de cuisine
