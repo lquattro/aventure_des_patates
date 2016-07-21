@@ -15,6 +15,7 @@
 - [Les équipements](#les-équipements)
 - [Rêgles sur les feuilles personnages](#rêgles-sur-les-feuilles-personnages)
 - [Le Leveling](#le-leveling)
+- [Les dés de hazard](#les-dés-de-hazard)
 
 ---
 
@@ -114,3 +115,41 @@ Pour avoir un résumé des personnages joués par les joueurs, on utilise une fi
 Au fil des histoires scénarisée, les personnages vont devenir plus fort et plus aguerri au combat ou avec leurs éléments. Ils pourront donc avoir plus de points, des nouveaux bonus et des nouveaux pouvoirs.
 
 [Leveling](leveling.md)
+
+---
+
+## Les dés de hazard
+
+<b>En Test</b>
+
+Les dés de hazard est un mécanisme qui prend en compte les jets de dés de chaque joueur le long de la partie en jeu, afin d'ajouter des bonus ou malus sur les jets de dés d'évènements.
+Pour chaque jet de dés, bon ou mauvais, cela influance les dés de hazard.
+Bien sur les compétences de certains personnages rentrent en action et peuvent ajoutés des bonus dans le nombre de répétitions de jets de dés ou sur le résultat.
+
+Résultat après accumulation d'action | Nombre de jet accumulé en jeu | Dés de hazard
+--- | --- | ---
+Reussite Critique | 1 | 1 Dés de hazard (<b>malchance</b>) au prochain jet de dés
+Reussite | 3 | 1 Dés de hazard (<b>malchance</b>) au prochain jet de dés
+Echec | 3 | 1 Dés de hazard (<b>chance</b>) au prochain jet de dés
+Echec Critique | 1 | 1 Dés de hazard (<b>chance</b>) au prochain jet de dés
+
+Les dés de hazard se jouent avant un jet d'action et se lance avec 1D4.
+
+Résultat de dés | Bonus/Malus (Vanilla)
+--- | ---
+1 | 5%
+2 | 10%
+3 | 15%
+4 | 20%
+
+<i>Exemple1 avec un dés de chance : Test mental pour une boule de feu + 1 dés de chance</i>
+<br><i>Le joueur lance son dés de chance et fait 3</i>
+<br><i>Le joueur lance son dés de test Mental et fait 75 pour 65.</i> 
+<br><i>En temps normal sans dés de chance, le joueur échoue !</i> 
+<br><i>Mais ici la chance s'ajoute et cela fait donc 75 pour 65% + 15% (soit 80%) = Réussite. (Le joueur a eu de la chance)</i> 
+
+<i>Exemple2 avec un dés de malchance : Test mental pour une boule de feu + 1 dés de malchance</i>
+<br><i>Le joueur lance son dés de chance et fait 3</i>
+<br><i>Le joueur lance son dés de test Mental et fait 55 pour 65.</i> 
+<br><i>En temps normal sans dés de chance, le joueur réussit !</i> 
+<br><i>Mais ici la malchance s'ajoute et cela fait donc 55 pour 65% - 15% (soit 50%) = Echec. (Le joueur n'a eu de chance)</i> 

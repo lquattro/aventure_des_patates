@@ -15,6 +15,7 @@ Catégorie accessible dès le niveau 1.
 * Berserker : double les dégâts physiques (Possibilité d'être incontrôlable)
 * Bouclier : 15%
 * Bourrin : 25% dégâts (Possibilité de casser ses armes)
+* Chanceux : +1/-1 en modificateur de résultat de dés de hazard
 * Charismatique : 10%
 * Chasseur né : 10%
 * Chimiste : 15%
@@ -35,6 +36,7 @@ Catégorie accessible dès le niveau 1.
 * Ingénieur : 10% (offre un bonus dans divers actions qui requière l'ingénieurie : exemple détection des pièges)
 * Lames : 10%
 * Lance : 20%
+* Malchanceux : +5% permanent (Mental/Physique/Social) et -5% sur tous les résultats de dés de hazard (chance).
 * Marchand : 15%
 * Marteau : 20%
 * Maître d'arme : 5%
