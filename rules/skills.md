@@ -7,6 +7,7 @@ Catégorie accessible dès le niveau 1.
 * Ambidextre (Supprime les malus sur l'utilisation d'une arme dans chaque main)
 * Ami des bêtes : 20%
 * Arc : 20%
+* Armes d'hast : 10%
 * Armes de tir : 10%
 * Artisanat : 15%
 * Avare : 15%
@@ -47,6 +48,7 @@ Catégorie accessible dès le niveau 1.
 * Proche des humains : 20%
 * Présence : 20%
 * Psychologue : 10%
+* Pugilat : 20%
 * Roublard : 10%
 * Stratège de combat : 10%
 * Toubib : 20%
