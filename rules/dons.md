@@ -118,6 +118,11 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 
 * Métamorphe Animal (3/5/7/9)
 <br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
+<br><b> Corbeau (-25% PV; +15% MANA; 2D4 de dégâts) :</b> le druide se transforme en corbeau, agile, rapide, avec une vue excélente.
+<br><b> Sanglier (+20% PV; -5% MANA; 2D8 de dégâts) :</b> le druide se transforme en Sanglier, agile, et puissant, pouvant traverser des murs.
+<br><b> Loup (+10% PV; +10% MANA; 3D6 de dégâts) :</b> le druide se transforme en Loup, feroce, puissant et habile.
+<br><b> Ours (+50% PV; -20% MANA; 2D12 de dégâts) :</b> le druide se transforme en Ours, résistant, et puissant, pouvant subir plusieurs coups de lance avant de ressentir de l'épuisement.
+
 
 ##### Catégorie C
 
