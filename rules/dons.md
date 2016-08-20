@@ -118,11 +118,11 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 
 * Métamorphe Animal (3/5/7/9)
 <br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
-<br><b> Corbeau (-25% PV; +15% MANA; 2D4 de dégâts) :</b> le druide se transforme en corbeau, agile, rapide, avec une vue excélente.
-<br><b> Sanglier (+20% PV; -5% MANA; 2D8 de dégâts) :</b> le druide se transforme en Sanglier, agile, et puissant, pouvant traverser des murs.
-<br><b> Loup (+10% PV; +10% MANA; 3D6 de dégâts) :</b> le druide se transforme en Loup, feroce, puissant et habile.
-<br><b> Ours (+50% PV; -20% MANA; 2D12 de dégâts) :</b> le druide se transforme en Ours, résistant, et puissant, pouvant subir plusieurs coups de lance avant de ressentir de l'épuisement.
-
+<br>Corbeau (-25% PV; +15% MANA; 2D4 de dégâts; +15% en Mental) : le druide se transforme en corbeau, agile, rapide, avec une vue excélente. [Dons : Dons d'origine + Sprint (1)]
+<br>Sanglier (+20% PV; -5% MANA; 2D8 de dégâts; +10% en Physique; +5% en Mental) : le druide se transforme en Sanglier, agile, et puissant, pouvant traverser des murs. [Dons : Sprint (1), Barrage anti-projectile (1), Spear (3, Renversement, + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie")]
+<br>Loup (+10% PV; +10% MANA; 3D6 de dégâts; +15% en Physique) : le druide se transforme en Loup, feroce, puissant et habile. [Dons : Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts), Sprint (1), Cri de terreur (2)]
+<br>Ours (+50% PV; -20% MANA; 2D12 de dégâts; +30% en Physique; -15% en Mental) : le druide se transforme en Ours, résistant, et puissant, pouvant subir plusieurs coups de lance avant de ressentir de l'épuisement.
+[Dons: Contre-attaque (1), Barrage anti-projectile (1), Cri de terreur (2)]
 
 ##### Catégorie C
 
@@ -176,7 +176,7 @@ L'académie des guerriers a débutée...
 
 ##### Catégorie B
 
-* C'est tout ce que t'a !!! (Préviens X dégats par X mana) <b><i>New</b></i>
+* C'est tout ce que t'a !!! (Préviens X dégats par X mana)
 <br><i>Gueule comme un tarré et préviens des dégâts suivant la mana utilisé dans l'énervement.</i></br>
 
 * Cri de terreur (2)
@@ -185,7 +185,7 @@ L'académie des guerriers a débutée...
 * Charge du Bellier (5, Renversement)
 <br><i>Effectue une puissante charge imprégnée de l'esprit du bellier, renversant tout sur son trajet</i>
 
-* Blocus (5, <b>Nécessite un bouclier</b>) <b><i>New</b></i>
+* Blocus (5, <b>Nécessite un bouclier</b>)
 <br><i>Bloque tous les actions physiques contre le guerrier ce tour-ci.</i>
 
 ##### Catégorie C
@@ -193,7 +193,7 @@ L'académie des guerriers a débutée...
 * Cri Dovahkin (4; Projète les ennemis sur un rayon de 45°c, + 1D4 dégâts de chute)
 <br><i>Effectue un puissant cri de dragon, projetant tout dans un rayon.</i> 
 
-* Adrienne !!! (6; Préviens un coma) <b><i>New</b></i>
+* Adrienne !!! (6; Préviens un coma)
 <br><i>Le guerrier crie "Adrienne !!!" et préviens automatiquement une mise en coma (Possible une fois par jour).</i>
 
 <br>
