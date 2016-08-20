@@ -119,10 +119,9 @@ Aucune académie n'existe à ce jour. Les dons listés sont issues de légendes 
 * Métamorphe Animal (3/5/7/9)
 <br><i> Dons inconnu qui permettrait au druide de se transformer en corbeau/sanglier/loup/ours. Cela demande plusieurs mois d'apprentissage en autodidacte.</i>
 <br>Corbeau (-25% PV; +15% MANA; 2D4 de dégâts; +15% en Mental) : le druide se transforme en corbeau, agile, rapide, avec une vue excélente. [Dons : Dons d'origine + Sprint (1)]
-<br>Sanglier (+20% PV; -5% MANA; 2D8 de dégâts; +10% en Physique; +5% en Mental) : le druide se transforme en Sanglier, agile, et puissant, pouvant traverser des murs. [Dons : Sprint (1), Barrage anti-projectile (1), Spear (3, Renversement, + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie")]
-<br>Loup (+10% PV; +10% MANA; 3D6 de dégâts; +15% en Physique) : le druide se transforme en Loup, feroce, puissant et habile. [Dons : Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts), Sprint (1), Cri de terreur (2)]
-<br>Ours (+50% PV; -20% MANA; 2D12 de dégâts; +30% en Physique; -15% en Mental) : le druide se transforme en Ours, résistant, et puissant, pouvant subir plusieurs coups de lance avant de ressentir de l'épuisement.
-[Dons: Contre-attaque (1), Barrage anti-projectile (1), Cri de terreur (2)]
+<br>Sanglier (+20% PV; -5% MANA; 2D8 de dégâts; +10% en Physique; +5% en Mental; Dons : Sprint (1), Barrage anti-projectile (1), Spear (3, Renversement, + 1D8 de dégâts direct "aucun réducteur de dégâts est applicable : Armure et magie"), Peau dur renforcé (3)) : <i>le druide se transforme en Sanglier, agile, et puissant, pouvant traverser des murs.</i>
+<br>Loup (+10% PV; +10% MANA; 3D6 de dégâts; +15% en Physique; Dons : Charge puissante (1; Stun 1 ennemi + 1D4 de dégâts), Sprint (1), Cri de terreur (2), Peau dur (2 d'armures)) : <i>le druide se transforme en Loup, feroce, puissant et habile.</i>
+<br>Ours (+50% PV; -20% MANA; 2D12 de dégâts; +30% en Physique; -15% en Mental, Dons: Contre-attaque (1), Barrage anti-projectile (1), Cri de terreur (2), Peau épaisse (5 d'armures)) : <i>le druide se transforme en Ours, résistant, et puissant, pouvant subir plusieurs coups de lance avant de ressentir de l'épuisement.</i>
 
 ##### Catégorie C
 
