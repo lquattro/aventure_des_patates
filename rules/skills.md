@@ -25,7 +25,7 @@ Catégorie accessible dès le niveau 1.
 * Concentration : 5%
 * Cuisinier : 15%
 * Débrouillard : 15%
-* Détection des pièges mécaniques : 20% (Spécialisation dans les pièges) <b><i>New</i></b>
+* Détection des pièges mécaniques : 20% (Spécialisation dans les pièges)
 * Divination : 10%
 * Démoniaque : double les dégâts magiques (Possibilité de se transformer en démon)
 * Epée : 20%
@@ -65,6 +65,7 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 * Défenseur de l'équipe : 15% (Bonus actif uniquement quand le défenseur défend volontairement un membre de l'équipe, bonus cumulable : Bouclier contre une attaque physique ou Esprit résistant contre une attaque mental)
 * Enchanteur : 15% (Compétences réservées au Mage OU forgeron)
 * Maitre Bouclier : 20% (Remplace Bouclier, PréRequis la compétence remplacée)
+* Maitre Soigneur : 25% (Remplace Toubib, PréRequis la compétence remplacée)
 * Noble : 15% (Remplace Citadin, PréRequis la compétence remplacée)
 
 ## Catégorie C
@@ -72,6 +73,7 @@ Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](l
 Cette catégorie est accessible à partir d'un certain niveau (voir [Leveling](leveling.md)).
 
 * Expert Bouclier : 25% (Remplace Maitre Bouclier, PréRequis la compétence remplacée)
+* Expert Soigneur : 30% (Remplace Maitre Soigneur, PréRequis la compétence remplacée)
 * ViComte : 20% (Remplace Noble, PréRequis la compétence remplacée)
 * Leader né : 10% (Aura qui imprègne l'équipe, Remplace Chef d'équipe, PréRequis la compétence remplacée)
 * Maitre Enchanteur : 20% (Compétences réservées au Mage OU forgeron, Remplace Enchanteur, PréRequis la compétence remplacée)

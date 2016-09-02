@@ -27,6 +27,7 @@ Une fiche personnage comprend obligatoirement les statistiques, une posture favo
 
 Un personnage a obligatoirement une classe pour caractériser ces particularitées et spécifications.
 * [Archer](dons.md#archer) : Furtif, rapide et excélent à longue portée.
+* [Druide](dons.md#paladin) : Proche de la nature.
 * [Guerrier](dons.md#guerrier) : Puissant, fort, et habile dans les combats.
 * [Mage](dons.md#mage) : Faible d'apparence, mais puissamment magique.
 * [Paladin](dons.md#paladin) : Proche de son ordre magique, et bon au combat.
