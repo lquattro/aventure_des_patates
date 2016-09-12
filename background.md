@@ -1,5 +1,14 @@
 # Story : L'aventure des patates
 
+## Sommaire
+
+1. [Le monde de Gaia](#le-monde-de-Gaia)
+2. [Histoire des patates](#préface--lavènement-des-hommes-patates)
+3. [Les rêgles du jeu](#début--le-groupe-daventurier)
+4. [Les peuples](#les-peuples)
+
+## Le monde de Gaia
+
 ![Map Monde](map-begin.png)
 <i>Map monde de par les hommes patates.</i>
 
@@ -34,6 +43,8 @@ Ils prirent place dans le village vide de Stolons, s'équipèrent, et renforcèr
 
 Au fil des années, le village de Stolons s'agrandit et malgré au début les attaques des humains pour reprendre le village et les contre-attaques des hommes patates pour défendre les innocentes patates des villages voisins; un traité de paix fut signé avec les villages humains environnants : Ceux-ci garantissaient l'égalité avec les hommes patates et les humains dans la contrée, si les hommes patates garantissaient que les hommes avaient le droit de manger des patates sans âme.
 
-## Début : Le groupe d'aventurier
+### Début : Le groupe d'aventurier
 
 Vous êtes des patates nouvelles, récemment homme patate du village de Stolons ayant reçu éducation et entraînement suivant votre type de patate. Vous avez fait connaissance entre vous, pendant certains courts interclasse, devenu plus ou moins amis.
+
+## Les peuples
