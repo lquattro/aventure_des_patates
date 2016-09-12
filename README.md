@@ -9,12 +9,12 @@ Une version plateau sera adapté, quand les rêgles seront complètes.
 
 ## Sommaire
 
-1. [Background du monde](background.md)
-2. [Les scénarios du jeu](scenarios_gm_only/README.md)
+1. [background][Background du monde]
+2. [scenario][Les scénarios du jeu]
 *Il est conseillé qu'uniquement les Maitres des jeux consultent les scénarios.*
-3. [Les rêgles du jeu](rules/README.md)
-4. [Les fiches personnages](characters/README.md)
-5. [Créateur de fiche personnage (formulaire)](https://docs.google.com/forms/d/1z1HRAZNjORtLB_G0Wm7G67GklqM8etctHvFzM6rNI44/viewform)
+3. [rules][Les rêgles du jeu]
+4. [characters][Les fiches personnages]
+5. [creator][Créateur de fiche personnage (formulaire)]
 
 ---
 
@@ -29,3 +29,10 @@ Une version plateau sera adapté, quand les rêgles seront complètes.
 You want to contribute ?
 
 [Readme Contributor](readme_contributor.md)
+
+<!-- links -->
+[background]: https://github.com/lquattro/aventure_des_patates/blob/master/background.md
+[scenario]: https://github.com/lquattro/aventure_des_patates/blob/master/scenarios_gm_only/README.md
+[rules]: https://github.com/lquattro/aventure_des_patates/blob/master/rules/README.md
+[characters]: https://github.com/lquattro/aventure_des_patates/blob/master/characters/README.md
+[creator]: https://docs.google.com/forms/d/1z1HRAZNjORtLB_G0Wm7G67GklqM8etctHvFzM6rNI44/viewform
