@@ -9,17 +9,21 @@
 
 ## Le monde de Gaia
 
+Le monde de Gaia est une planête bleu de petite taille avec un seul continent et deux lunes. Les deux lunes, Eva et Krah sont des satellites et génèrent des rayonnances lunaires très forte la nuit.
+
 ![Map Monde](map-begin.png)
 <i>Map monde de par les hommes patates.</i>
 
-## Description :
+## Préface : L'avènement des hommes patates.
+
+### Description :
 
 Provenant de la terre et né par la magie, vous et votre peuple êtes une nouvelle ère de l'histoire de ce monde,
 où reigne majoritairement les humains.
 Protégé par un faible pacte de non aggression avec les humains, le seul village d'homme patate est souvent en proie à des agressions de toutes sortes.
 Partez à l'aventure avec vos compagnons hommes patates découvrir ce monde et ces mystères.
 
-## Préface : L'avènement des hommes patates.
+### Préface :
 
 Les patates, légumes souvent mangé gratiné ou en fritte, inoffensif, sans trop de difficulté pour pousser.
 Les petites patates dite patates naines naissent ainsi à cause du sol qui a une composition trop riche en pierre;
@@ -48,3 +52,16 @@ Au fil des années, le village de Stolons s'agrandit et malgré au début les at
 Vous êtes des patates nouvelles, récemment homme patate du village de Stolons ayant reçu éducation et entraînement suivant votre type de patate. Vous avez fait connaissance entre vous, pendant certains courts interclasse, devenu plus ou moins amis.
 
 ## Les peuples
+
+Ce monde est composé de millier d'espèce différente dont certaines ont été créées par le mélange inter-espèce et d'autre par de la magie lunaire d'Eva ou Krah.
+
+Voici les principales espèces dominantes de Gaia :
+- Humain (34%)
+- Mort-Vivant (18%)
+- Orc (17%)
+- Elfe 'global' (12%)
+- Nain (8%)
+- Sang-mêlé (5%)
+- Autres (6%)
+- Les hommes Patates (~300 personnes)
+- Les hommes Poireaux (~120 personnes)
