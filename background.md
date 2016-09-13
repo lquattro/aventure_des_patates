@@ -9,6 +9,8 @@
 
 ## Le monde de Gaia
 
+![Gaia](gaia_small.jpg)
+
 Le monde de Gaia est une planête bleu de petite taille avec un seul continent et deux lunes. Les deux lunes, Eva et Krah sont des satellites et génèrent des rayonnances lunaires très forte la nuit.
 
 ![Map Monde](map-begin.png)
