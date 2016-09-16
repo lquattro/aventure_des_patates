@@ -12,6 +12,10 @@
 ![Gaia](gaia_small.jpg)
 
 Le monde de Gaia est une planête bleu de petite taille avec un seul continent et deux lunes. Les deux lunes, Eva et Krah sont des satellites et génèrent des rayonnances lunaires très forte la nuit.
+Gaia a vu le jour il y a 5 Millions d'année; ces lunes étant très influantes sur les créatures vivantes du monde ont toujours apporter une énergie qu'on appel la magie.
+La magie a la particularitée d'être partout, et sur tous les éléments de la nature.
+Les peuples de ce monde ont fondés leurs religions sur ces magies élémentaires clairement visible, ce qui ont données des églises élémentaires (L'église de la lumière, l'église du feu...).
+Chaque créature de ce monde a une part de magie et une sensibilitée à elle plus ou moins variante, allant du pratiquement inexistant aux créatures élémentaires qui sont composées principalement de magie.
 
 ![Map Monde](map-begin.png)
 <i>Map monde de par les hommes patates.</i>
