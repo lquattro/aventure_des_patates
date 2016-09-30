@@ -4,7 +4,7 @@
 
 1. [Le monde de Gaia](#le-monde-de-Gaia)
 2. [Histoire des patates](#préface--lavènement-des-hommes-patates)
-3. [Les rêgles du jeu](#début--le-groupe-daventurier)
+3. [Le groupe d'aventurier](#début--le-groupe-daventurier)
 4. [Les peuples](#les-peuples)
 
 ## Le monde de Gaia
