@@ -120,7 +120,7 @@ Au fil des histoires scénarisée, les personnages vont devenir plus fort et plu
 
 ## Les dés de hazard
 
-<b>En Test</b>
+__Cette rêgle est optionnel.__
 
 Les dés de hazard est un mécanisme qui prend en compte les jets de dés de chaque joueur le long de la partie en jeu, afin d'ajouter des bonus ou malus sur les jets de dés d'évènements.
 Pour chaque jet de dés, bon ou mauvais, cela influance les dés de hazard.
